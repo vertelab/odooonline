@@ -9,8 +9,7 @@ Vardag med Odoo
 .. toctree::
    :maxdepth: 1
 
-   Xintroduction.rst
-   odoo_accounting.rst
+   introduction.rst
 
 Fakturera
 ----------------
