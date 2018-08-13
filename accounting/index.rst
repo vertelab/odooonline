@@ -4,15 +4,15 @@
    single: Accounting
 
 ======================
-Accounting and Finance
+Redovisning
 ======================
 .. toctree::
    :maxdepth: 1
 
-   introduction.rst
+   Xintroduction.rst
    odoo_accounting.rst
 
-Customer Invoice
+Kundfaktura
 ----------------
 .. toctree::
    :maxdepth: 1
@@ -22,7 +22,7 @@ Customer Invoice
    cash_discount.rst
    invoice_numbers_by_financial_year.rst
 
-Payment Terms
+Betalningsvillkor
 -------------
 .. toctree::
    :maxdepth: 1
@@ -31,7 +31,7 @@ Payment Terms
    installment_plans.rst
    warning_on_credit_limit.rst
 
-Payment & Followups
+Betalningar och påminnelser
 -------------------
 .. toctree::
    :maxdepth: 1
@@ -43,24 +43,25 @@ Payment & Followups
    advance_payment_from_customer.rst
    print_customer_ledger.rst
 
-Setup Accounting
-----------------
-.. toctree::
+..
+  Setup Accounting
+  ----------------
+  .. toctree::
    :maxdepth: 1
 
    company_setup.rst
    import_opening.rst
 
-Taxes & Duties
---------------
-.. toctree::
+  Taxes & Duties
+  --------------
+  .. toctree::
    :maxdepth: 1
 
    tax_based_on_loal_or_export_sales.rst
 
-Credit Notes
-------------
-.. toctree::
+  Credit Notes
+  ------------
+  .. toctree::
    :maxdepth: 1
 
    reject_invoice.rst
@@ -68,9 +69,9 @@ Credit Notes
    refund_invoice.rst
    refund_partial_paid_invoice.rst
 
-Bank & Cash
------------
-.. toctree::
+  Bank & Cash
+  -----------
+  .. toctree::
    :maxdepth: 1
 
    bank_reconciliation.rst
@@ -78,24 +79,17 @@ Bank & Cash
    importofx.rst
    cash_withdrawal.rst
 
-Indian Localization
--------------------
-.. toctree::
-   :maxdepth: 1
 
-   configure_gst_in_odoo.rst
-   tax_deduction_at_source.rst
-
-Multi Currency
---------------
-.. toctree::
+  Multi Currency
+  --------------
+  .. toctree::
    :maxdepth: 1
 
    invoice_in_foreign_currency.rst
 
-Vendor Bills & Payments
------------------------
-.. toctree::
+  Vendor Bills & Payments
+  -----------------------
+  .. toctree::
    :maxdepth: 1
 
    vendor_bill.rst
@@ -107,9 +101,9 @@ Vendor Bills & Payments
    customer_aged_payable_report.rst
    single_bill_form_multiple_orders.rst
 
-Inventory Valuation (Anglo-Saxons)
-----------------------------------
-.. toctree::
+  Inventory Valuation (Anglo-Saxons)
+  ----------------------------------
+  .. toctree::
    :maxdepth: 1
 
    inventory_valuation/manual_valuation_standard_costing.rst
