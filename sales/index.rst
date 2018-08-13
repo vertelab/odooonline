@@ -1,36 +1,36 @@
 .. _salesindex:
 
-=================
-Sales & Invoicing
-=================
+=========================
+Kundorder och fakturering
+=========================
 .. toctree::
    :maxdepth: 1
 
    introduction.rst
 
-Sales Quotation
+Offerter
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   create_my_first_quotation
-   send_quotation_by_email.rst
-   change_your_quotation_layout.rst
-   set_default_terms_and_conditions.rst
-   apply_default_tax.rst
-   sections_on_sales_orders.rst
+   Xcreate_my_first_quotation
+   Xsend_quotation_by_email.rst
+   Xchange_your_quotation_layout.rst
+   Xset_default_terms_and_conditions.rst
+   Xapply_default_tax.rst
+   Xsections_on_sales_orders.rst
 
-Quotation Template
+Offertmallel
 ------------------
 .. toctree::
    :maxdepth: 1
 
    quick_create_quotation_using_quotation_template.rst
-   increase_your_sales_with_suggested_products.rst
-   online_customer_approval_on_quotation.rst
-   online_customer_approval_and_payment_on_quotation.rst
+   Xincrease_your_sales_with_suggested_products.rst
+   Xonline_customer_approval_on_quotation.rst
+   Xonline_customer_approval_and_payment_on_quotation.rst
 
-Product and Pricing
+Produkter odch prissättning
 -------------------
 .. toctree::
    :maxdepth: 1
