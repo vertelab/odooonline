@@ -7,7 +7,7 @@ Odookalendern
 Veckovis eller dagligen
 ---------------------
 
-Om faktureringen inte sker löpande t ex i samband med utleveranser så skulle det kunna vara en veckorutin, granskning av leverantörsfakturor och rapportering av 
+Om faktureringen inte sker löpande t ex i samband med utleveranser så skulle det kunna vara en veckorutin, granskning av leverantörsfakturor och rapportering av utlägg
 
 Månadsvis
 ---------
