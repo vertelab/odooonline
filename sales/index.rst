@@ -20,7 +20,7 @@ Offerter
    Xapply_default_tax.rst
    Xsections_on_sales_orders.rst
 
-Offertmallel
+Offertmallar
 ------------------
 .. toctree::
    :maxdepth: 1
@@ -36,38 +36,38 @@ Produkter odch prissättning
    :maxdepth: 1
 
    apply_manual_discount.rst
-   adapt_price_based_on_customer_segment.rst
-   adapt_price_based_on_customer_location.rst
-   compute_and_apply_discount_from_pricelist.rst
-   ../inventory/inventory_costing/average_costing.rst
-   product_price_per_company.rst
-
-Sales Margin
-------------
-.. toctree::
-  :maxdepth: 1
+   Xadapt_price_based_on_customer_segment.rst
+   Xadapt_price_based_on_customer_location.rst
+   Xcompute_and_apply_discount_from_pricelist.rst
+   X../inventory/inventory_costing/average_costing.rst
+   Xproduct_price_per_company.rst
+..
+  Sales Margin
+  ------------
+  .. toctree::
+    :maxdepth: 1
 
   compute_sales_margin.rst
 
-Unit of Measure
----------------
-.. toctree::
+  Unit of Measure
+  ---------------
+  .. toctree::
    :maxdepth: 1
 
    product_unit_of_measure.rst
    pricelist_for_uom.rst
 
-Product and Tax
----------------
-.. toctree::
+  Product and Tax
+  ---------------
+  .. toctree::
    :maxdepth: 1
 
    price_including_tax.rst
    price_including_tax_and_excluding_tax.rst
 
-Invoicing
----------
-.. toctree::
+  Invoicing
+  ---------
+  .. toctree::
   :maxdepth: 1
 
   pro-forma.rst
@@ -76,41 +76,41 @@ Invoicing
   credit_note_from_order.rst
   single_order_for_multiple_orders.rst
 
-Delivery Charges
-----------------
-.. toctree::
+  Delivery Charges
+  ----------------
+  .. toctree::
    :maxdepth: 1
 
    free_delivery.rst
    delivery_based_on_weight.rst
 
-Manage Inventory
-----------------
-.. toctree::
+  Manage Inventory
+  ----------------
+  .. toctree::
    :maxdepth: 1
 
    make_to_order.rst
 
-Service Product
----------------
-.. toctree::
+  Service Product
+  ---------------
+  .. toctree::
   :maxdepth: 1
 
   invoice_milestones.rst
   invoice_based_on_timesheet.rst
 
-Subscription
-------------
-.. toctree::
+  Subscription
+  ------------
+  .. toctree::
   :maxdepth: 1
 
   subscription/setup_recurring_invoice.rst
   subscription/sell_subscription_throught_sales_quotation.rst
   subscription/sell_subscription_through_ecommerce_platform.rst
 
-Customer Portal
----------------
-.. toctree::
+  Customer Portal
+  ---------------
+  .. toctree::
   :maxdepth: 1
 
   online_approval.rst
