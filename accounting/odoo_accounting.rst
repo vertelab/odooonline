@@ -1,75 +1,62 @@
 .. _odooaccounting:
 
 ==========================
-The Accounting behind Odoo
+Bokföring i Odoo
 ==========================
 
-This page summarises the way Odoo deals with typical accounts and transactions.
 
-Double-entry bookkeeping
+Den här sidan sammanfattar hur Odoo behandlar typiska konton och transaktioner.
+
+Dubbelbokföring
 ------------------------
-Odoo automatically creates all the behind-the-scenes journal entries for each of your accounting transactions: customer invoices, point of sale order, expenses, inventory moves, etc.
+Odoo skapar automatiskt alla verifikat bakom kulisserna för var och en av dina bokföringstransaktioner: kundfakturor, försäljningsorder, utgifter, lagerförflyttningar etc.
 
-Odoo uses the rules of double-entry bookkeeping system: all journal entries are automatically balanced (sum of debits = sum of credits).
+Verifikaten skapas på traditionellt sätt med regler för dubbel bokföring och använder i normala fall BAS-kontoplanen.
 
-Accrual and Cash Basis Methods
+Periodiseringsmetoder och kassakrav
 ------------------------------
-Odoo support both accrual and cash basis reporting. This allows you to report income / expense at the time transactions occur (i.e., accrual basis), or when payment is made or received (i.e., cash basis).
+Odoo stöder både periodiserad och kontantbaserad rapportering. Detta gör att du kan redovisa intäkter / kostnader när transaktioner inträffar (dvs periodiseringsbas) eller när betalning görs eller erhålls (dvs. kontantbas).
 
-Multi-companies
+Multi-företag
 ---------------
-Odoo allows to manage several companies within the same database. Each company has its own chart of accounts and rules. You can get consolidation reports following your consolidation rules.
+Odoo tillåter att hantera flera företag inom samma databas. Varje företag har sin egen kontoplan och regler. Du kan få konsolideringsrapporter enligt dina konsolideringsregler.
 
-Users can access several companies but always work in one company at a time.
+Användare kan komma åt flera företag men arbetar alltid i ett företag i taget.
 
-Multi-currencies
+Multi-valutor
 ----------------
-Every transaction is recorded in the default currency of the company. For transactions occurring in another currency, Odoo stores both the value in the currency of the company and the value in the currency of the transaction. Odoo can generate currencies gains and losses after the reconciliation of the journal items.
+Varje transaktion registreras i företagets standardvaluta. För transaktioner som sker i en annan valuta lagrar Odoo både värdet i företagets valuta och värdet i transaktionsvaluta. Odoo kan generera valutor vinster och förluster efter avstämning av journalposter.
 
-Currency rates are updated once a day using a yahoo.com online web-service.
+Valutakurserna uppdateras en gång om dagen med en yahoo.com webbtjänst.
 
-International Standards
------------------------
-Odoo accounting support more than 50 countries. The Odoo core accounting implement accounting standards that is common to all countries and specific modules exists per country for the specificities of the country like the chart of accounts, taxes, or bank interfaces.
 
-In particular, Odoo’s core accounting engine supports:
-
-* Anglo-Saxon Accounting (U.S., U.K.,, and other English-speaking countries including Ireland, Canada, Australia, and New Zealand) where cost of good sold are reported when products are sold/delivered.
-* European accounting where expenses are accounted at the supplier bill.
-* Storno accounting (Italy) where refund invoices have negative credit/debit instead of a reverting the original journal items.
-* Odoo also have modules to comply with IFRS rules.
-
-Accounts Receivable & Payable
+Kundfordringar och betalningsbara
 -----------------------------
-By default, Odoo uses a single account for all account receivable entries and one for all accounts payable entries. You can create separate accounts per customers/suppliers, but you don’t need to.
+Som standard använder Odoo ett enda konto för alla kontofordringar och en för alla betalningsuppgifter. Du kan skapa separata konton per kund / leverantör, men du behöver inte.
 
-As transactions are associated to customers or suppliers, you get reports to perform analysis per customer/supplier such as the customer statement, revenues per customers, aged receivable/payables, …
+Eftersom transaktioner är knutna till kunder eller leverantörer får du rapporter för att utföra analys per kund / leverantör, såsom kundredovisning, intäkter per kund, åldersfordringar / skulder, ...
 
-Wide range of financial reports
+Brett utbud av finansiella rapporter
 -------------------------------
-In Odoo, you can generate financial reports in real time. Odoo’s reports range from basic accounting reports to advanced management reports. Odoo’s reports include:
+I Odoo kan du generera finansiella rapporter i realtid. Odoos rapporter sträcker sig från grundläggande redovisningsrapporter till avancerade hanteringsrapporter. Odoo rapporter inkluderar:
 
-* Performance reports (such as Profit and Loss, Budget Variance)
-* Position reports (such as Balance Sheet, Aged Payables, Aged Receivables)
-* Cash reports (such as Bank Summary)
-* Detail reports (such as Trial Balance and General Ledger)
-* Management reports (such as Budgets, Executive Summary)
-* Odoo’s report engine allows you to customize your own report based on your own formulae.
+* Prestationsrapporter (som vinst och förlust, budgetvariation)
+* Placeringsrapporter (t.ex. Balansräkning, Åldersbetalning, Åldersfordringar)
+* Kontantrapporter (som banköversikt)
+* Detaljrapporter (t.ex. försöksbalans och huvudbok)
+* Hanteringsrapporter (t.ex. budgetar, sammandrag)
+* Odoos rapportmotor gör att du kan anpassa din egen rapport utifrån dina egna formler.
 
-Import bank feeds automatically
+Importera bankfeeds automatiskt
 -------------------------------
-Bank reconciliation is a process that matches your bank statement lines, as supplied by the bank, to your accounting transactions in the general ledger. Odoo makes bank reconciliation easy by frequently importing bank statement lines from your bank directly into your Odoo account. This means you can have a daily view of your cashflow without having to log into your online banking or wait for your paper bank statements.
+Bankavstämning är en process som matchar dina bankkreditslinjer, enligt bankens uppgifter, till dina bokföringstransaktioner i huvudboken. Odoo gör bankavstämningen lätt genom att importera kontoutdrag från din bank direkt till ditt Odoo-konto. T ex Bankgirot, SEB eller Swedbank. Det innebär att du kan få en daglig översikt över ditt kassaflöde.
 
-Odoo speeds up bank reconciliation by matching most of your imported bank statement lines to your accounting transactions. Odoo also remembers how you’ve treated other bank statement lines and provides suggested general ledger transactions.
+Odoo påskyndar bankavstämningen genom att matcha de flesta av dina importerade transaktionsrader till dina bokföringstransaktioner. Odoo kommer också ihåg hur du har behandlat andra transaktioner och tillhandahåller förslag till bokföring.
 
-Calculates the tax you owe your tax authority
+Beräknar den skatt du är skyldig till din skattemyndighet
 ---------------------------------------------
-Odoo totals all your accounting transactions for your tax period and uses these totals to calculate your tax obligation. You can then check your sales tax by running Odoo’s Tax Report.
+Odoo uppräknar alla dina bokföringstransaktioner för din skatteperiod och använder dessa summor för att beräkna din skattskyldighet. Du kan då kolla din moms genom att köra Odoos Skatterapport.
 
-Inventory Valuation
+Inventarvärdering
 -------------------
-Odoo support both periodic (manual) and perpetual (automated) inventory valuations. The available methods are standard price, average price, LIFO (for countries allowing it) and FIFO.
-
-Easy retained earnings
-----------------------
-Retained earnings is the portion of income retained by your business. Odoo automatically calculates your current year earnings in real time so no year-end journal or rollover is required. This is calculated by reporting the profit and loss balance to your balance sheet report automatically.
+Odoo stöder både periodiska (manuella) och eviga (automatiska) inventeringsvärderingar. De tillgängliga metoderna är standardpris, genomsnittspris, LIFO (för länder som tillåter det) och FIFO.
