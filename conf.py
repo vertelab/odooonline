@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Odoo10'
-copyright = u'2018, Anders Wallenquist'
+copyright = u'2018, Vertel AB'
 author = u'Anders Wallenquist'
 
 # The short X.Y version
