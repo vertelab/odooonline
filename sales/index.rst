@@ -30,7 +30,7 @@ Offertmallar
    Xonline_customer_approval_on_quotation.rst
    Xonline_customer_approval_and_payment_on_quotation.rst
 
-Produkter odch prissättning
+Produkter och prissättning
 -------------------
 .. toctree::
    :maxdepth: 1
