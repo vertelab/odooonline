@@ -17,6 +17,7 @@ Denna bok är avsedd för entreprenörer som vill implementera ett fullt integre
    :maxdepth: 3
 
    about.rst
+   everyday/index.rst
    odoo/index.rst
    crm/index.rst
    sales/index.rst
