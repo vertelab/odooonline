@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"s\u00f6ksid":0,index:0,modulindex:0},titles:["Welcome to Odoo10\u2019s documentation!"],titleterms:{and:0,documentation:0,indic:0,odoo10:0,tabl:0,welcom:0}})
