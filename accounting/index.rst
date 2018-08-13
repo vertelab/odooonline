@@ -11,16 +11,24 @@ Redovisning
 
    Xintroduction.rst
    odoo_accounting.rst
+   
+Granska leverantörsfakturor
+----------------
+.. toctree::
+   :maxdepth: 1
+
+   vendor_bill.rst
+   
 
 Kundfaktura
 ----------------
 .. toctree::
    :maxdepth: 1
 
-   first_invoice.rst
-   match_payment.rst
-   cash_discount.rst
-   invoice_numbers_by_financial_year.rst
+   Xfirst_invoice.rst
+   Xmatch_payment.rst
+   Xcash_discount.rst
+   Xinvoice_numbers_by_financial_year.rst
 
 Betalningsvillkor
 -------------
@@ -28,8 +36,8 @@ Betalningsvillkor
    :maxdepth: 1
 
    payment_terms.rst
-   installment_plans.rst
-   warning_on_credit_limit.rst
+   Xinstallment_plans.rst
+   Xwarning_on_credit_limit.rst
 
 Betalningar och påminnelser
 -------------------
@@ -37,11 +45,11 @@ Betalningar och påminnelser
    :maxdepth: 1
 
    record_customer_payment.rst
-   track_customer_check.rst
-   partial_payment.rst
-   customer_followups.rst
-   advance_payment_from_customer.rst
-   print_customer_ledger.rst
+   Xtrack_customer_check.rst
+   Xpartial_payment.rst
+   Xcustomer_followups.rst
+   Xadvance_payment_from_customer.rst
+   Xprint_customer_ledger.rst
 
 ..
   Setup Accounting
