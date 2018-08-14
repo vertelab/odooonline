@@ -119,6 +119,14 @@ Viktiga datum
    * displayed
    * horizontally
 
+.. line-block::
+
+        Lend us a couple of bob till Thursday.
+        I'm absolutely skint.
+        But I'm expecting a postal order and I can pay you back
+            as soon as it comes.
+        Love, Ewan.
+
 Anslagstavlan
 ----------------
 
