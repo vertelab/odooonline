@@ -1,6 +1,6 @@
 .. _refundinvoice:
 
-.. index::
+  .. index::
    single: Refund Invoice
    single: Credit Note
 
