@@ -15,9 +15,9 @@ Vardag med Odoo
    introduction.rst
    accounting/refund_invoice.rst
    vendor_bill.rst
-   accounting/customer_followups.rst
+   /accounting/customer_followups.rst
    introduction.rst
-   accounting/refund_invoice.rst
+   ../accounting/refund_invoice.rst
 
 
 Fakturera
