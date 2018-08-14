@@ -13,7 +13,13 @@ Vardag med Odoo
    :maxdepth: 2
 
    introduction.rst
-   accounting/refund_invoice.rst
+   * Projektarbete
+   * Komma och gå
+   * Sjukanmäla / semester
+   * Försäljning
+   * Inköp
+   * Lager
+   * Tillverkning
    vendor_bill.rst
    /accounting/customer_followups.rst
    introduction.rst
@@ -88,3 +94,10 @@ Viktiga datum
 
    vendor_bill.rst
    introduction.rst
+   
+
+
+Anslagstavlan
+----------------
+
+* Bra saker att ha på sin anslagstavla
