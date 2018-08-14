@@ -80,12 +80,11 @@ Bokförarens vardag
 ======================
 .. note:: I detta exempel beskriver "Bokförarens vardag" som en parallell process skild från övriga affärsprocesser som drivs i Odoo. Vi går igenom hur bokföringsarbtet kan organiseras effektivt oavsett som det sker med egen personal eller en inhyrd byrå. Det innebär också att vi skiljer ut bank- och myndighetstransaktioner som även dessa utförs av personer med speciell behörighet. Det viktiga är att kunna fördela arbetsuppgifter på ett effektivt sätt som också överenstämmer med hur man önskar att driva företaget.
 
-* Stämmer av bankkonton och bankgiro
-* Stämmer av kreditkort
-* Bokför inköp, kvitton, representation
-* Skapar arbetsgivar- och momsdeklarationer
-* Skapar betalningsuderlag för lön, leverantörer, skatt
+* Löpande bokföring; bokför inköp, kvitton, representation, lön, hyra etc
 * Genomför lönekörningar
+* Skapar arbetsgivar- och momsdeklarationer
+* Skapar betalningsuderlag för lön, leverantörer, skatt etc
+* Stämmer av bankkonton (matcha leverantörsbetalningar, lön och andrakostnader), bankgiro (matcha kundfakturor),  kreditkort
 
 
 Anslagstavlan
