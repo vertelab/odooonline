@@ -41,6 +41,19 @@ Produkter och prissättning
    Xcompute_and_apply_discount_from_pricelist.rst
    X../inventory/inventory_costing/average_costing.rst
    Xproduct_price_per_company.rst
+   
+   
+Fakturering
+---------
+.. toctree::
+  :maxdepth: 1
+
+  Xpro-forma.rst
+  Xinvoice_on_order_qty.rst
+  Xinvoice_on_deliver_qty.rst
+  credit_note_from_order.rst
+  Xsingle_order_for_multiple_orders.rst
+   
 ..
   Sales Margin
   ------------
