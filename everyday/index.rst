@@ -12,19 +12,21 @@ Vardag med Odoo
 .. toctree::
    :maxdepth: 2
 
+
+
    introduction.rst
-   * Projektarbete
-   * Komma och gå
-   * Sjukanmäla / semester
-   * Försäljning
-   * Inköp
-   * Lager
-   * Tillverkning
    vendor_bill.rst
    /accounting/customer_followups.rst
    introduction.rst
    ../accounting/refund_invoice.rst
 
+* Projektarbete
+* Komma och gå
+* Sjukanmäla / semester
+* Försäljning
+* Inköp
+* Lager
+* Tillverkning
 
 Fakturera
 ----------------
