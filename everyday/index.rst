@@ -8,7 +8,8 @@ Vardag med Odoo
 ======================
 .. toctree::
    :maxdepth: 1
-I detta exempel beskriver menar vi att vardagsarbetet är det som normalt sker på företaget; konsulterna planerar projekt och rapporterar timmar och förbrukat material, säljare skickar offerter och tar emot och effektuerar ordrar, lagerpersonal leverar ut och tar emot varor, inköpare köper in varor (osv), dvs de arbetsuppgifter som inte är direkt kopplat till bokföring. I avsnittet "Bokförarens vardag" går vi igenom arbetet med att göra bokföring i Odoo och hur Odoo skapar bokföringsunderlag. 
+
+.. note:: I detta exempel beskriver menar vi att vardagsarbetet är det som normalt sker på företaget; konsulterna planerar projekt och rapporterar timmar och förbrukat material, säljare skickar offerter och tar emot och effektuerar ordrar, lagerpersonal leverar ut och tar emot varor, inköpare köper in varor (osv), dvs de arbetsuppgifter som inte är direkt kopplat till bokföring. I avsnittet "Bokförarens vardag" går vi igenom arbetet med att göra bokföring i Odoo och hur Odoo skapar bokföringsunderlag. 
 
    introduction.rst
    ../accounting/refund_invoice.rst
@@ -60,6 +61,6 @@ Lön
 ======================
 Bokförarens vardag
 ======================
-I detta exempel beskriver "Bokförarens vardag" som en parallell process skild från övriga affärsprocesser som drivs i Odoo. Vi går igenom hur bokföringsarbtet kan organiseras effektivt oavsett som det sker med egen personal eller en inhyrd byrå. Det innebär också att vi skiljer ut bank- och myndighetstransaktioner som även dessa utförs av personer med speciell behörighet. Det viktiga är att kunna fördela arbetsuppgifter på ett effektivt sätt som också överenstämmer med hur man önskar att driva företaget.
+.. note:: I detta exempel beskriver "Bokförarens vardag" som en parallell process skild från övriga affärsprocesser som drivs i Odoo. Vi går igenom hur bokföringsarbtet kan organiseras effektivt oavsett som det sker med egen personal eller en inhyrd byrå. Det innebär också att vi skiljer ut bank- och myndighetstransaktioner som även dessa utförs av personer med speciell behörighet. Det viktiga är att kunna fördela arbetsuppgifter på ett effektivt sätt som också överenstämmer med hur man önskar att driva företaget.
 
 
