@@ -5,7 +5,7 @@
    single: Credit Note
 
 ============================================
-How to refund a fully paid customer invoice?
+Hur rättar man felaktiga fakturor?
 ============================================
 
 
