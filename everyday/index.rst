@@ -10,6 +10,7 @@ Vardag med Odoo
    :maxdepth: 1
 
    introduction.rst
+   ../accounting/refund_invoice.rst
 
 Fakturera
 ----------------
