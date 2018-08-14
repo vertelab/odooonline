@@ -29,6 +29,9 @@ Kundfaktura
    Xmatch_payment.rst
    Xcash_discount.rst
    Xinvoice_numbers_by_financial_year.rst
+   refund_invoice.rst
+   refund_partial_paid_invoice.rst
+   
 
 Betalningsvillkor
 -------------
