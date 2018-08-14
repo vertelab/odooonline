@@ -35,7 +35,7 @@ Inköp
 
    vendor_bill.rst
 
-Utrlägg och representation
+Utlägg och representation
 ----------------
 .. toctree::
    :maxdepth: 1
