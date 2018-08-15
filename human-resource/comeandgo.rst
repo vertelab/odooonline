@@ -1,7 +1,7 @@
 .. _hrindex:
 
 ==============
-Human Resource
+Komma och gå
 ==============
 
 Employee
