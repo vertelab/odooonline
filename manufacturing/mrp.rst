@@ -1,7 +1,7 @@
 .. _mrpindex:
 
 =============
-Manufacturing
+Tillverkning
 =============
 
 Inventory
