@@ -54,6 +54,11 @@ Fakturering
   credit_note_from_order.rst
   Xsingle_order_for_multiple_orders.rst
    
+  vendor_bill.rst
+  /accounting/customer_followups.rst
+  introduction.rst
+  ../accounting/refund_invoice.rst
+
 ..
   Sales Margin
   ------------
