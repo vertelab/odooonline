@@ -19,7 +19,7 @@ Vardag med Odoo
    /accounting/customer_followups.rst
    introduction.rst
    ../accounting/refund_invoice.rst
-
+   /project/project.rst
 * Projektarbete
 * Komma och gå
 * Sjukanmäla / semester
