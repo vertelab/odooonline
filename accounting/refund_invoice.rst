@@ -30,3 +30,5 @@ Manuell avstämning av kreditfaktura
 -------------------------------
 En felaktig faktura har skapats i Odoo, du har skapat en preleminär kreditfaktura. Med en preleminär kreditfaktura kan kreditfakturan ändras innan den fastställs. Den kräver då en manuell avstämning.
 
+.. note:: Snart komplettera med video
+
