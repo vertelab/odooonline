@@ -1,7 +1,7 @@
 .. _ecommerce:
 
 =====================
-Website and eCommerce
+Webbplats och e-handel
 =====================
 
 Website
