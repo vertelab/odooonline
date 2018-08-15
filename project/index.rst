@@ -1,7 +1,7 @@
 .. _projectindex:
 
 ==================
-Project Management
+Projektadministration
 ==================
 
 Project & Task
