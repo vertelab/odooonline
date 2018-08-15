@@ -19,12 +19,12 @@ Vardag med Odoo
    ../accounting/refund_invoice.rst
 
    /project/project.rst
-   /human-resouces/comeandgo.rst
-   /human-resouces/leaves.rst
+   /human-resource/comeandgo.rst
+   /human-resource/leaves.rst
    /sales/sale.rst
    /purchase/purchase.rst
    /inventory/stock.rst
-   /manufactoring/mrp.rst
+   /manufacturing/mrp.rst
 
 * Projektarbete
 * Komma och gå
