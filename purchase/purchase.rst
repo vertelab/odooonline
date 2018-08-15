@@ -1,7 +1,7 @@
 .. _purchaseindex:
 
 ===================
-Purchase Management
+Inköp
 ===================
 .. toctree::
    :maxdepth: 1
