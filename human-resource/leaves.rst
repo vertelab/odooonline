@@ -25,7 +25,7 @@ Business case
 The types of leave and number of leave available for each leave types
 are as below in our business case.
 
-* The leave cycle starts from January 2018
+* The leave cycle starts from april 2019
 * Working schedule for all the employees are morning 8 am to 5 pm with 1 hour of lunch break
 * Full time employees have 12 Legal leaves for the year 2018
 * Part time employees have 12 half leaves for the year 2018
