@@ -9,17 +9,29 @@ Vardag med Odoo
 
 .. note:: I detta exempel beskriver menar vi att vardagsarbetet är det som normalt sker på företaget; konsulterna planerar   projekt och rapporterar timmar och förbrukat material, säljare skickar offerter och tar emot och effektuerar ordrar, lagerpersonal leverar ut och tar emot varor, inköpare köper in varor (osv), dvs de arbetsuppgifter som inte är direkt kopplat till bokföring. I avsnittet "Bokförarens vardag" går vi igenom arbetet med att göra bokföring i Odoo och hur Odoo skapar bokföringsunderlag. 
 
+
+Olika ansvarsområden
+-----------------------
 .. toctree::
    :maxdepth: 1
    
    /project/project.rst
-   /human-resource/comeandgo.rst
-   /human-resource/leaves.rst
+   /project/issue.rst
    /sales/sale.rst
    /purchase/purchase.rst
    /inventory/stock.rst
    /manufacturing/mrp.rst
    /ecommerce-and-website/ecommerce.rst
+
+Annat vardagligt
+-----------------------
+.. toctree::
+   :maxdepth: 1
+   
+   /human-resource/comeandgo.rst
+   /human-resource/leaves.rst
+   /human-resource/employee_expense.rst
+
 
 Bokförarens vardag
 ======================
