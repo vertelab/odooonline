@@ -1,7 +1,7 @@
 .. _hrindex:
 
 ==============
-Human Resource
+Sjukanmälan och semesteransökan
 ==============
 
 Employee
