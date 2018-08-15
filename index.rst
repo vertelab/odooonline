@@ -14,7 +14,7 @@ Denna bok är avsedd för entreprenörer som vill implementera ett fullt integre
 .. note:: Vänligen kommentera på sidan under, eller skicka ett mail om du har några frågor eller synpunkter.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    about.rst
    everyday/index.rst
