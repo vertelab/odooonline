@@ -1,7 +1,7 @@
 .. _inventoryindex:
 
 ====================
-Inventory Management
+Lagerhantering
 ====================
 
 Product & Stock
