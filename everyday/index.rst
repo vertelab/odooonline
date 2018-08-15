@@ -19,6 +19,7 @@ Vardag med Odoo
    /purchase/purchase.rst
    /inventory/stock.rst
    /manufacturing/mrp.rst
+   /ecommerce-and-website/ecommerce.rst
 
 ======================
 Bokförarens vardag
