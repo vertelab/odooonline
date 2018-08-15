@@ -11,13 +11,7 @@ Vardag med Odoo
 
 .. toctree::
    :maxdepth: 1
-
-   introduction.rst
-   vendor_bill.rst
-   /accounting/customer_followups.rst
-   introduction.rst
-   ../accounting/refund_invoice.rst
-
+   
    /project/project.rst
    /human-resource/comeandgo.rst
    /human-resource/leaves.rst
@@ -25,14 +19,6 @@ Vardag med Odoo
    /purchase/purchase.rst
    /inventory/stock.rst
    /manufacturing/mrp.rst
-
-* Projektarbete
-* Komma och gå
-* Sjukanmäla / semester
-* Försäljning
-* Inköp
-* Lager
-* Tillverkning
 
 ======================
 Bokförarens vardag
@@ -61,12 +47,12 @@ Myndighetsrapportering och bank
 * Genomför betalningar
 * Skickar in deklarationsfiler
 
+
 Viktiga datum
 ----------------
 .. toctree::
    :maxdepth: 2
 
-   vendor_bill.rst
    introduction.rst
    
 .. hlist::
