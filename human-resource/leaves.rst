@@ -5,9 +5,7 @@ Sjukanmälan och semesteransökan
 ==============
 
 
-========================
-Managing Employee Leaves
-========================
+
 Planning and forecasting tasks and projects required the updated
 information for the resource availability. Leave management application
 helps to provide the updated information for employee unavailability.
