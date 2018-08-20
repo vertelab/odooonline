@@ -60,6 +60,15 @@ Fakturering
   ../accounting/refund_invoice.rst
 
 ..
+  Vidareförsäljning av varor från webbutik
+  ------------
+  
+  Företaget säljer varor till en kund från leverantörens lager direkt. I detta exempel handlar det även om produkter som inte avses att lagerföras men försäljningen skall skapa 1) en offert, när offerten är accepterad 2) skapa en order 3) kundfaktura 4) underlag för granskning av leverantörsfaktura
+  
+  
+
+
+..
   Sales Margin
   ------------
   .. toctree::
