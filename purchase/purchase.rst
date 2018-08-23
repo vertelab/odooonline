@@ -5,6 +5,8 @@ Inköp
 ===================
 .. toctree::
    :maxdepth: 1
+   
+Inköpsorder skapas normalt från lagerhanteringen (inköp mot lager), tillverkningen (råvarubehov) eller kundorder (kundorderstyrda inköp). I dessa fall 
 
 Inköp
 ---------
