@@ -56,7 +56,7 @@ Regionsmatchningen sker i följande steg
 4. Matcha landsgrupp.
 5. Matcha mot en skatteregion som ej har något av ovanstående krav.
 
-Om Susan av något skäl skulle skatta enligt någon annan modell kan detta beteende överridad genom att ange korrekt skatteområde på kundkortet (rätt skatteområde väljs automnatiskt varje gång) eller specifikt på inköpsorder eller leverantörsfaktura (rätt skatteområde för en enskild transaktion).
+Om Susan av något skäl skulle skatta enligt någon annan modell kan detta beteende överridas genom att ange korrekt skatteområde på kundkortet (rätt skatteområde väljs automnatiskt varje gång) eller specifikt på inköpsorder eller leverantörsfaktura (rätt skatteområde för en enskild transaktion).
 
 Skatteregioner som kräver att saljaren har skatteregistregingsnummer (VAT-nummer) så ingår detta kriterium i regionmatchningen.
 
