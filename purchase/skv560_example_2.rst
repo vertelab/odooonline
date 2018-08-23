@@ -46,7 +46,7 @@ Inköpsorder
 .. image:: skv560/exempel2_2.png
    :align: center
 
-Odoo matchar skatteregionen "Handel med EU" eftersom Susan har en adress i Storbrittanen. Om leverantören har en adress utanför EU eller en adress i Sverige så sker matchningen med respektive skatteområde.
+Odoo väljer automatiskt skatteregionen "Handel med EU" eftersom Susan har en adress i Storbritannien. Om leverantören har en adress utanför EU eller en adress i Sverige så sker matchningen med respektive skatteområde.
 
 Regionsmatchningen sker i följande steg
 
