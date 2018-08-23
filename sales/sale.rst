@@ -7,6 +7,8 @@ Kundorder och fakturering
    :maxdepth: 1
 
    introduction.rst
+   dropshipping_new.rst
+   
 
 Offerter
 ---------------
