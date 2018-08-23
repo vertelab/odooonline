@@ -46,16 +46,19 @@ Inköpsorder
 .. image:: skv560/exempel2_2.png
    :align: center
 
-1. Välj den skatteregion som specificerats på kundkortet.
-2. Om säljaren har ett VAT-nummer, regionsmatcha mot skatteregioner som kräver VAT.
-3. Regionsmatcha mot skatteregioner som ej kräver VAT.
+Odoo matchar skatteregionen "Handel med EU" eftersom Susan har en adress i Storbrittanen. Om leverantören har en adress utanför EU eller en adress i Sverige så sker matchningen med respektive skatteområde.
 
-Regionsmatchning sker i följande steg
-1. Matcha land, stat och postkod.
+Regionsmatchningen sker i följande steg
+
+1. Matcha land, stat och postkod som är angivet på kundkortet.
 2. Matcha land och stat.
 3. Matcha land.
 4. Matcha landsgrupp.
 5. Matcha mot en skatteregion som ej har något av ovanstående krav.
+
+Om Susan av något skäl skulle skatta enligt någon annan modell kan detta beteende överridad genom att ange korrekt skatteområde på kundkortet (rätt skatteområde väljs automnatiskt varje gång) eller specifikt på inköpsorder eller leverantörsfaktura (rätt skatteområde för en enskild transaktion).
+
+Skatteregioner som kräver att saljaren har skatteregistregingsnummer (VAT-nummer) så ingår detta kriterium i regionmatchningen.
 
 .. image:: skv560/exempel2_3.png
    :align: center
