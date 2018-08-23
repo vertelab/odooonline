@@ -8,6 +8,8 @@ I detta exempel gör vi ett inköp av produkter som vi normalt inte lagerför so
 
 Kundorder
 --------------
+.. image:: dropshipping_new/steg_1_skapa_kundorder.png
+   :align: center
 
 xxxx
 
