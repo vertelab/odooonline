@@ -3,7 +3,7 @@
 Inköp av varor till Sverige från en plats utanför EU (import, SKV 560, exempel 15) 
 ======================================
 
-.. image:: skv560/exempel2.png
+.. image:: skv560/Markering_708.jpg 
    :align: center
 
 Möbelhandlaren Styrbjörn i Sverige köper möbler av Nore
@@ -19,7 +19,7 @@ Eftersom transporten inom Sverige är en bikostnad till
 importen uppgår beskattningsunderlaget till 100 000 kr
 (92 000 kr + 8 000 kr).
 
-Odoo väljer automatiskt skatteregionen "Handel med EU" eftersom Susan har en adress i Storbritannien. Om leverantören har en adress utanför EU eller en adress i Sverige så sker matchningen med respektive skatteområde.
+Odoo väljer automatiskt skatteregionen "Handel med världen" eftersom Nore har en adress i Norge. Om leverantören har en adress inom EU eller en adress i Sverige så sker matchningen med respektive skatteområde. Tänk på att Tullverkets beslut om tullvärdet kan kräva en korrigering. (TODO Tull och transporten)
 
 Regionsmatchningen sker i följande steg
 
@@ -29,6 +29,7 @@ Regionsmatchningen sker i följande steg
 4. Matcha landsgrupp.
 5. Matcha mot en skatteregion som ej har något av ovanstående krav.
 
-Om Susan av något skäl skulle skatta enligt någon annan modell kan detta beteende överridas genom att ange korrekt skatteområde på kundkortet (rätt skatteområde väljs automnatiskt varje gång) eller specifikt på inköpsorder eller leverantörsfaktura (rätt skatteområde för en enskild transaktion).
+Om Nore av något skäl skulle skatta enligt någon annan modell kan detta beteende överridas genom att ange korrekt skatteområde på kundkortet (rätt skatteområde väljs automnatiskt varje gång) eller specifikt på inköpsorder eller leverantörsfaktura (rätt skatteområde för en enskild transaktion).
 
 Skatteregioner som kräver att saljaren har skatteregistregingsnummer (VAT-nummer) så ingår detta kriterium i regionmatchningen.
+
