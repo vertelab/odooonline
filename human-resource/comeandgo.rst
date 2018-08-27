@@ -4,17 +4,8 @@
 Komma och gå
 ==============
 
-Employee
---------
-.. toctree::
-   :maxdepth: 1
+In och utstämpling sker via en ikon på indikatorraden i Odoo. Ett klick för instämpling och nästa klick stämplar ut. Närvaron matchas med schemat. Vid tidrapporteringen kan man även jämföra närvaro med registrerad tid.
 
-   organizational_chart.rst
-   holiday.rst
 
-Employee Expense
-----------------
-.. toctree::
-   :maxdepth: 1
 
-   employee_expense.rst
+Utöver in/ut-ikonen så finns det mobil app och möjlighet att sätta upp en in/ut-stämplingspanel i lokalerna.
