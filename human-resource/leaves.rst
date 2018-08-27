@@ -32,7 +32,3 @@ Varje år i april vid semesterårets början skapas ett nytt semestersaldo för 
 .. |image0| image:: images/Markering_711.jpg
    :width: 2.71458in
    :height: 0.83647in
-
-
-.. image:: images/Markering_711.png
-   :align: center
