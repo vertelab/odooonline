@@ -30,5 +30,7 @@ Registrering av semestersaldo
 Varje år i april vid semesterårets början skapas ett nytt semestersaldo för den anställde. Det här saldo blir då tillgängligt vid semesteransökan.
 
 .. |image0| image:: images/Markering_711.jpg
-   :width: 2.71458in
-   :height: 0.83647in
+   :width: 300px
+   
+   
+..   :height: 0.83647in
