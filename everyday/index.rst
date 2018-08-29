@@ -21,7 +21,7 @@ Olika ansvarsområden
    /purchase/purchase.rst
    /inventory/stock.rst
    /manufacturing/mrp.rst
-   /ecommerce-and-website/ecommerce.rst
+   X/ecommerce-and-website/ecommerce.rst
 
 Annat vardagligt
 -----------------------
