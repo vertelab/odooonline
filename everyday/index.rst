@@ -16,7 +16,7 @@ Olika ansvarsområden
    :maxdepth: 1
    
    /project/project.rst
-   /project/issue.rst
+   X/project/issue.rst
    /sales/sale.rst
    /purchase/purchase.rst
    /inventory/stock.rst
