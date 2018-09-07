@@ -27,6 +27,11 @@ Inköpskvitto
    
 Produkter: förbrukningsvara, it-tjänster, datakommunikation, arbetskläder och skyddsmaterial
 
+Kvittoappen
+-----------
+
+.. image:: images/kvitto.png
+   :align: center
 
 Avancerade exempel
 ---------------------
