@@ -39,21 +39,6 @@ mars. (Om Susan dröjer med att utfärda en faktura måste
 Sebastian ändå redovisa momsen senast den 15 i månaden
 efter leveransen, d.v.s. den 15 april.)
 
-
-.. ~ 1. Välj den skatteregion som specificerats på kundkortet.
-.. ~ 2. Om säljaren har ett VAT-nummer, regionsmatcha mot skatteregioner som kräver VAT.
-.. ~ 3. Regionsmatcha mot skatteregioner som ej kräver VAT.
-
-.. ~ Regionsmatchning sker i följande steg
-
-.. ~ 1. Matcha land, stat och postkod.
-.. ~ 2. Matcha land och stat.
-.. ~ 3. Matcha land.
-.. ~ 4. Matcha landsgrupp.
-.. ~ 5. Matcha mot en skatteregion som ej har något av ovanstående krav.
-
-
-
 Inköpsorder
 ---------------------
 **Inköp** > **Inköp** > **Offertförfrågningar**
@@ -64,7 +49,7 @@ Inköpsorder
 .. image:: skv560/exempel2_2.png
    :align: center
 
-Skapa en ny inköpsorder med skatteregion *Handel med EU*. Om du fyllt i *Land* och *Skatteregistreringsnummer* på kundkortet så kommer rätt skatteregion automatiskt att väljas.
+Skapa en ny inköpsorder med skatteregion *Handel med EU*. Om du fyllt i *Land* och *Skatteregistreringsnummer* på kundkortet så kommer rätt skatteregion automatiskt att väljas (se :ref: `_tax_region` för en detaljerad beskrivning).
 
 Fyll i inköpsorderraderna. OBS! Om du byter skatteregion så blir skatten på befintliga rader ej korrekt. Du kan tvinga en uppdatering av en rad genom att byta produkt på den.
 
