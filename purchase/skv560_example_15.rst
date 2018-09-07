@@ -7,7 +7,7 @@
 Inköp av varor till Sverige från en plats utanför EU (import, SKV 560, exempel 15) 
 ======================================
 
-.. image:: skv560/exempel15.jpg 
+.. image:: skv560/exempel15.png
    :align: center
 
 Möbelhandlaren Styrbjörn i Sverige köper möbler av Nore

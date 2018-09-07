@@ -7,7 +7,7 @@
 Försäljning av varor från Sverige till en plats utanför EU (export, SKV 560, exempel 14) 
 ======================================
 
-.. image:: skv560/exempel14.jpg 
+.. image:: skv560/exempel14.png
    :align: center
 
 Bilhandlaren Sonja i Sverige säljer en begagnad bil till privat-

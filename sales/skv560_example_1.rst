@@ -7,7 +7,7 @@
 Försäljning av varor till ett annat EU-land (SKV 560, exempel 1) 
 ======================================
 
-.. image:: skv560/exempel1.jpg 
+.. image:: skv560/exempel1.png 
    :align: center
 
 Svea i Sverige säljer en maskin till Bastien i Belgien för
