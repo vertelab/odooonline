@@ -1,3 +1,7 @@
+.. _skv560_example_15:
+
+.. index::
+   single: Inköp av varor från en plats utanför EU
 
 ======================================
 Inköp av varor till Sverige från en plats utanför EU (import, SKV 560, exempel 15) 

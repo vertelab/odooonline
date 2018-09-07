@@ -1,10 +1,10 @@
-.. _createrfq:
+.. _skv560_example_20:
 
 .. index::
-   single: Create RFQ
+   single: Datakonsult i Irland
 
 ======================================
-Inköp av varor från ett annat EU-land (SKV 560, exempel 2)
+Datakonsult i Irland (SKV 560, exempel 20)
 ======================================
 
 .. image:: skv560/exempel2.png

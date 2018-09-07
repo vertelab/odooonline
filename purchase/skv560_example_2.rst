@@ -1,7 +1,7 @@
-.. _createrfq:
+.. _skv560_example_2:
 
 .. index::
-   single: Create RFQ
+   single: Inköp av varor från ett annat EU-land
 
 ======================================
 Inköp av varor från ett annat EU-land (SKV 560, exempel 2)

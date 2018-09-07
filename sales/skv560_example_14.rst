@@ -1,3 +1,7 @@
+.. _skv560_example_14:
+
+.. index::
+   single: Försäljning av varor från Sverige till en plats utanför EU
 
 ======================================
 Försäljning av varor från Sverige till en plats utanför EU (export, SKV 560, exempel 14) 
