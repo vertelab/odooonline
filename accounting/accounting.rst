@@ -7,11 +7,13 @@
 Löpande bokföring
 ======================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
 Skatteinbetalningar och andra återkommande verifikat
 -------------------------
 Många verifikat är återkommande transaktioner med ett visst intervall. Låt Odoo skapa dessa verifikat löpande efter en mall. Oavsett om beloppen är dem samma eller om det krävs en justering så underlättar detta rutinerna avservärt.
+
+Molntjänst, företagsförsäkringar, hyra, 
 
 Granskning av inköp och leverantörskostnader
 -------------------
@@ -35,3 +37,7 @@ Avstämningar
 Bankkonto, bankgiro, skattekonto månadsvis
 Uppföljning
 Lämpliga vyer
+
+Avstämning av bankkonto
+-----------------------
+Bankavgifter, räntekostnader, 
