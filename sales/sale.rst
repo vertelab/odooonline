@@ -32,9 +32,6 @@ Avancerade exempel
    :maxdepth: 1
 
    purchase/skv560_example_1.rst
-   purchase/skv560_example_2.rst
    purchase/skv560_example_14.rst
-   purchase/skv560_example_15.rst
-   purchase/skv560_example_20.rst
 
 

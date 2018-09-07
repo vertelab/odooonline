@@ -17,9 +17,7 @@ Avancerade exempel
 .. toctree::
    :maxdepth: 1
 
-   skv560_example_1.rst
    skv560_example_2.rst
-   skv560_example_14.rst
    skv560_example_15.rst
    skv560_example_20.rst
 
