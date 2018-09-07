@@ -1,7 +1,6 @@
 
 ======================================
-Exempel 1: Försäljning av
-varor till ett annat EU-land (SKV 560, exempel 1) 
+Exempel 1: Försäljning av varor till ett annat EU-land (SKV 560, exempel 1) 
 ======================================
 
 .. image:: skv560/exempel1.jpg 
