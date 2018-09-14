@@ -49,7 +49,7 @@ Inköpsorder
 .. image:: skv560/exempel2_2.png
    :align: center
 
-Skapa en ny inköpsorder med skatteregion *Handel med EU*. Om du fyllt i *Land* och *Skatteregistreringsnummer* på kundkortet så kommer rätt :ref:`skatteregion <_tax_region>` automatiskt att väljas.
+Skapa en ny inköpsorder med skatteregion *Handel med EU*. Om du fyllt i *Land* och *Skatteregistreringsnummer* på kundkortet så kommer rätt :ref:`skatteregion <tax_region>` automatiskt att väljas.
 
 Fyll i inköpsorderraderna. OBS! Om du byter skatteregion så blir skatten på befintliga rader ej korrekt. Du kan tvinga en uppdatering av en rad genom att byta produkt på den.
 
