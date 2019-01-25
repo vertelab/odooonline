@@ -28,5 +28,24 @@ I fliken lager, kryssa direktleverans och make to order. Lägg in din leverantö
    :align: center
 
 Ibland kan man behöva läsa in produkten på nytt för att vara säker på att alla nya uppgifter är inlästa på orderraden.
+Kunderorderen kan se exempelvis såhär:
+
+.. image:: dropshipping_new/kundorder.png
+   :align: center
 
 Nu kan kunden få sin order och faktura i vanlig ordning. En inköpsorder är skapad som används i samband med granskning av leverantörsfakturan när det anländer.
+Inköpsorderen kan se exempelvis såhär:
+
+.. image:: dropshipping_new/inkopsorder.png
+   :align: center
+
+Efter varorn har kommit klick på "Ta emot produkter", nu kan du skapa en leverantörsfaktura genom att klicka på knappen "Leverantörsfaktura".
+Skanna och ladda upp fakturan som du fick från leverantörn. På "Bild" fliken kan du granska om produktraderna och raderna på bilden är överstämma varandra.
+
+.. image:: dropshipping_new/leverantorsfaktura.png
+   :align: center
+
+Bekräfta leverantörsfakturan efteråt så skapar Odoo en verifikat utifrån det.
+
+.. image:: dropshipping_new/verifikat.png
+   :align: center
