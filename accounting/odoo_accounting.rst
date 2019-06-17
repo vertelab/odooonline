@@ -60,3 +60,8 @@ Odoo uppräknar alla dina bokföringstransaktioner för din skatteperiod och anv
 Inventarvärdering
 -------------------
 Odoo stöder både periodiska (manuella) och eviga (automatiska) inventeringsvärderingar. De tillgängliga metoderna är standardpris, genomsnittspris, LIFO (för länder som tillåter det) och FIFO.
+
+.. toctree::
+   :maxdepth: 1
+
+   odoo_accounting_config.rst
