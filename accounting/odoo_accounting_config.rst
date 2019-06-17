@@ -35,7 +35,7 @@ Fråga: Fram till dess vi migrerat webbsidorna är det så att jag skall ladda n
 
 Nej, du behöver inte vänta på hemsidan. Du kan skicka faktura direkt från servern vi har gjort i ordning för dig. Det är viktigt att dina företagsuppgifter stämmer, med BankGiro, PlusGiro, adress och telefonnummer. Kunderna fyller du i med namn, adress och e-post och sen kan du skapa och skicka faktura i systemet.
 
-Skatteverket skriver tydligt på sin webbplats vad en faktura ska innehålla.
+Skatteverket skriver tydligt på sin webbplats vad en faktura ska innehålla. (Länk öppnas i samma fönster.) 
 https://www4.skatteverket.se/rattsligvagledning/edition/2014.4/321574.html
 
 
