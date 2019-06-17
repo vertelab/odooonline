@@ -28,6 +28,12 @@ Fråga: Över fyra minuter per uppdatering är rätt bökigt. ”Lämna inte sk�
 
 I 9 fall av 10 beror långsamma svarstider på klienten och inte servern. En långsam dator och om man har många fönster öppna samtidigt.
 
+======================
+Skicka faktura
+======================
+Fråga: Fram till dess vi migrerat webbsidorna är det så att jag skall ladda ner fakturorna och maila dem från oss?
+
+Nej, du behöver inte vänta på hemsidan. Du kan skicka faktura direkt från servern vi har gjort i ordning för dig. Det är viktigt att dina uppgifter stämmer, med BankGiro, PlusGiro, adress och telefonnummer. Kunderna fyller du i med namn, adress och e-post och sen kan du skapa och skicka faktura i systemet.
 
 .. |image0| image:: images/Markering_004.png
    :width: 600px
