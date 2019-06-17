@@ -8,7 +8,7 @@ Konfigurering
 |image0|
 
 ======================
-Rabatt
+Rabatt 1 - per orderrad
 ======================
 Det finns två sätt att ge rabatter vid ett köp. Man kan skapa olika prislistor och man kan inkludera rabatten i samband med köp. Då visas rabatten prydligt på offerten eller på fakturan.
 
@@ -20,6 +20,10 @@ Välj Rabatt > Tillåt rabattrad per orderrad.
 
 |image1|
 
+======================
+Rabatt 2 - prislista
+======================
+Text om prislistan.
 
 ======================
 Väntetider
