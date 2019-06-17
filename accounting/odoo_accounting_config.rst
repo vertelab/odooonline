@@ -11,8 +11,10 @@ Rabatt
 ------
 Det finns två sätt att ge rabatter vid ett köp. Man kan skapa olika prislistor och man kan inkludera rabatten i samband med köp. Då visas rabatten prydligt på offerten eller på fakturan.
 
-Menyval: Försäljning > Konfiguration > Inställningar. 
+Menyval: Försäljning > Konfiguration > Inställningar.
+
 Välj Säljpris > Avancerad prissätting...
+
 Välj Rabatt > Tillåt rabattrad per orderrad.
 
 |image1|
