@@ -14,5 +14,5 @@ Konfigurering
 * Lite text.
 
 
-.. |image0| image:: images/Markering_711.jpg
+.. |image0| image:: images/Markering_004.png
    :width: 600px
