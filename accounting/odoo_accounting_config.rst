@@ -20,6 +20,12 @@ Välj Rabatt > Tillåt rabattrad per orderrad.
 |image1|
 
 
+======================
+Väntetider
+======================
+Fråga: Över fyra minuter per uppdatering är rätt bökigt. ”Lämna inte skärmen än..." Finns det något sätt att snabba på uppdateringar i databasen?
+
+I 9 fall av 10 beror långsamma svarstider på klienten och inte servern. En långsam dator och om man har många fönster öppna samtidigt.
 
 
 .. |image0| image:: images/Markering_004.png
