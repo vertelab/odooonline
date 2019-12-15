@@ -1,15 +1,17 @@
 .. _ecommerce:
 
-=====================
-Website and eCommerce
-=====================
+======================
+Webbplats och e-handel
+======================
 
-Website
+Webbplats
 -------
 .. toctree::
    :maxdepth: 1
 
    website/contactus_page.rst
+   website/translation.rst
+
 
 Products
 --------
