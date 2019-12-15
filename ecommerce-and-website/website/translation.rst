@@ -1,12 +1,11 @@
 .. _translation:
 
 .. index::
-   single: Språk
-   single: Översätt
+   single: Översättning
 
-============================
-Välja språk för översättning
-============================
+============
+Översättning
+============
 
 Ställ in de språk webbplatsen skall kunna hantera, i detta fall Svenska och Engelska. Det är enkelt att när som utöka med fler språk (add language dyker upp brevid språkväljaren för webbredaktören)
 
