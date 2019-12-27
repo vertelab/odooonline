@@ -29,6 +29,21 @@ Produkter: förbrukningsvara, it-tjänster, datakommunikation, arbetskläder och
 
 Kvittoappen
 -----------
+/upload_voucher
+För att använda funktionen med hantering av kvitton går du till hemsidan.se/upload_voucher där hemsidan är din/er webbplats med Odoo.
+
+Du måste logga in för att kunna använda tjänsten. 
+
+I den först fliken kan man välja vilken typ av vara kvittot rör sig om.
+
+I det andra fältet kan du göra en anteckning om vilken typ av vara / tjänst det kan vara. Sen kan man fota och ladda upp kvittot, direkt in i bokföringen.
+
+Tryck ”Skicka” och då är det klart för dig!
+
+.. image:: images/mobilappen-1.jpg
+   :align: center
+.. image:: images/mobilappen-2.jpg
+   :align: center
 
 .. image:: images/kvitto.png
    :align: center
