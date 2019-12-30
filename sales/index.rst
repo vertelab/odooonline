@@ -8,6 +8,15 @@ Kundorder och fakturering
 
    introduction.rst
 
+Migrera kundregister från Fortnox
+---------------
+https://support.fortnox.se/hc/sv/articles/360000632189-Exportera-f%C3%B6retag-kontakter
+
+Följ instruktionerna på länken ovan. Om det blir trassel med teckenuppsättningen, gör då så att du laddar in hela kundregistret i Google Docs. Dokumentet är skrivskyddat och det stänger du av och sen exporterar du dokumentet till lokal disk.
+
+Detta ”nya” dokumentet ska då ha korrekt teckenuppsättning. Här kan du passa på att rensa bort några av de 69 kolumner från Fortnox som du inte vill importera till Odoo. Ofta är det namn, e-post och adress man vill importera, men det kan variera från gång till annan.
+
+
 Offerter
 ---------------
 .. toctree::
