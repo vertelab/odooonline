@@ -27,7 +27,7 @@ Inköpskvitto
    
 Produkter: förbrukningsvara, it-tjänster, datakommunikation, arbetskläder och skyddsmaterial
 
-Kvittoappen
+Kvittoappen "/upload_voucher/"
 -----------
 Upload_voucher. För att använda funktionen med hantering av kvitton går du till hemsidan.se/upload_voucher där hemsidan är din/er webbplats med Odoo.
 
@@ -39,6 +39,10 @@ I det andra fältet kan du göra en anteckning om vilken typ av vara / tjänst d
 
 Tryck ”Skicka” och då är det klart för dig!
 
+Nedan skärmbilder. Den första som det kan se ut i telefonen, den andra och tredje, bild från Androidtelefon och den fjärde ett kvitto.
+
+.. image:: images/mobilappen.png
+   :align: center
 .. image:: images/mobilappen-1.jpg
    :align: center
 .. image:: images/mobilappen-2.jpg
