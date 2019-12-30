@@ -16,6 +16,7 @@ Följ instruktionerna på länken ovan. Om det blir trassel med teckenuppsättni
 
 Detta ”nya” dokumentet ska då ha korrekt teckenuppsättning. Här kan du passa på att rensa bort några av de 69 kolumner från Fortnox som du inte vill importera till Odoo. Ofta är det namn, e-post och adress man vill importera, men det kan variera från gång till annan.
 
+I Odoo, gå till Kontakter, välj att visa kontakter i valet "Lista" (inte förvalet Kanban), välj Importera och ladda upp din fil.
 
 Offerter
 ---------------
