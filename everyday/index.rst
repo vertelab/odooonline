@@ -16,6 +16,7 @@ Olika ansvarsområden
    :maxdepth: 1
    
    /project/project.rst
+   /kostnadsredvisning/index.rst
    X/project/issue.rst
    /sales/sale.rst
    /purchase/purchase.rst
@@ -40,6 +41,7 @@ Bokförarens vardag
 .. toctree::
    :maxdepth: 1
    
+   /inaktsredovisning/index.rst
    /accounting/accounting.rst
    /accounting/payment_order.rst
 
