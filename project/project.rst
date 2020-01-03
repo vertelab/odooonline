@@ -14,13 +14,12 @@ Projekt
    biljetter.rst
 
 
+
+
+
 .. tip::
 
-   You can browse the full API by accessing its root URL: https://readthedocs.org/api/v3/
-
-
-Nedan, material och resurser på engelska.
-* * * * * * * * * * * * * * * * * * * * * * * * 
+   Nedan, material och resurser på engelska.
 
 ==================
 Projektadministration
