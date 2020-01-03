@@ -4,6 +4,25 @@
 Projektadministration
 ==================
 
+"Att administrera ett projekt" kan inkludera näst till oändligt många saker. Låt oss i stället begränsa oss till några få händelser. Att sälja biljetter till en föreläsning.
+
+Projekt
+--------------
+.. toctree::
+   :maxdepth: 1
+
+   biljetter.rst
+
+
+
+
+Nedan, material och resurser på engelska.
+* * * * * * * * * * * * * * * * * * * * * * * * 
+
+==================
+Projektadministration
+==================
+
 Project & Task
 --------------
 .. toctree::
