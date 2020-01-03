@@ -5,7 +5,7 @@ Intäktsredovisning
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
     Kontantfaktura.rst    
     Försäljning_av_biljetter.rst
