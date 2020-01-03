@@ -13,4 +13,23 @@ Intäktsredovisning
     Offert_Säljorder_Projekt_Faktura.rst
 
 
+Kontantfaktura
+--------------
+Att redovisa
+
+
+Försäljning av biljetter
+--------------
+Att redovisa
+
+
+Försäljning i webbshop
+--------------
+Att redovisa
+
+
+Offert, Säljorder, Projekt, Faktura
+--------------
+Att redovisa
+
 
