@@ -2,19 +2,17 @@
 ==================
 Intäktsredovisning
 ==================
+Denna texten vänder sig till dig som arbetar på en bokföringsbyrå och hjälper din kund, vars redovisning sker i Odoo.
 
 
-.. toctree::
-   :maxdepth: 1
-
-    Kontantfaktura.rst    
-    Försäljning_av_biljetter.rst
-    Försäljning_i_webshop.rst
-    Offert_Säljorder_Projekt_Faktura.rst
+Avstämning
+--------------
+I början av varje månad ber du din kund att ladda upp filerna till Odoo. Under fliken "Redovisning" finns avstämning av bank-filen och avstämning av Bg-filer, alltså Bankgirot.
 
 
 Kontantfaktura
 --------------
+
 Att redovisa
 
 
