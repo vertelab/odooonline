@@ -4,7 +4,7 @@
 Projektadministration
 ==================
 
-"Att administrera ett projekt" kan inkludera näst till oändligt många saker. Låt oss i stället begränsa oss till några få händelser. Att sälja biljetter till en föreläsning.
+"Att administrera ett projekt" kan inkludera näst till oändligt många saker. Allt från planering, inköp, inbjudningar till själva genomförandet och traditionsenlig utvärdering. Låt oss i stället begränsa oss till några få händelser.
 
 Projekt
 --------------
@@ -17,6 +17,7 @@ Projekt
 
 
 Nedan, material och resurser på engelska.
+
 * * * * * * * * * * * * * * * * * * * * * * * * 
 
 ==================
