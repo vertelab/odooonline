@@ -36,7 +36,7 @@ Leverantörsfakturor (telefoni, hyra, andra avtal)
 
 Lön - köra lön
 --------------
-Lönehantering > Anställdas lön > "Skapa"
+Lönehantering > Anställdas lön > "Skapa".
 Gör en tom lönespecifikation till respektive anställd. Här kan kunden själv lägga in milersättning. (18:50 kronor per mil.)
 
 När milersättningen är ifylld ska man "Bekräfta" lönen för alla anställda.
