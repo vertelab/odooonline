@@ -93,8 +93,15 @@ Anslagstavlan
 Förbereda för drift.
 =================
 
-.. note:: Nedan följer saker att tänka på för att göra iordning Odoo för drift. Det krävs varierande mängd förkunskaper för denna delen, ska väl ändå de flesta förstå! :-)
+.. tip:: Nedan följer saker att tänka på för att göra iordning Odoo för drift. Det krävs varierande mängd förkunskaper för denna delen, men lite ska väl ändå de flesta förstå!
+
+
+Bankfilen
+----------------
+Kunden ska ladda upp bankfilen 
+
+I Swedbank, klassisk vy, väljer man "Sök transaktioner" och fyller i kontot och mellan vilka datum man vill ha. Klicka på länken "Skapa fil" och välj xls.
 
 
 
-
+I den nya vyn i Swedbank finns csv som val att exportera.
