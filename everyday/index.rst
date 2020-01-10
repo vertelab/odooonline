@@ -89,3 +89,12 @@ Anslagstavlan
 =================
 
 * Bra saker att ha på sin anslagstavla
+
+Förbereda för drift.
+=================
+
+.. note:: Nedan följer saker att tänka på för att göra iordning Odoo för drift. Det krävs varierande mängd förkunskaper för denna delen, ska väl ändå de flesta förstå! :-)
+
+
+
+
