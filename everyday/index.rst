@@ -102,6 +102,11 @@ Kunden ska ladda upp bankfilen
 
 I Swedbank, klassisk vy, väljer man "Sök transaktioner" och fyller i kontot och mellan vilka datum man vill ha. Klicka på länken "Skapa fil" och välj xls.
 
-
+.. image:: images/swedbank-1.png
 
 I den nya vyn i Swedbank finns csv som val att exportera.
+
+.. image:: images/swedbank-2.png
+
+
+
