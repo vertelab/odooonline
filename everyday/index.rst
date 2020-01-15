@@ -113,7 +113,7 @@ BankGirot / Bankkonto
 ----------------
 Lägg in kontonummer i Odoo.
 Bankkonton // Journallnamn
-Klicka på fliken Redovisning > Välj Redovisning och underfliken Bankkonton. 
+Klicka på fliken Redovisning > Välj Konfiguration > Redovisning > Bankkonton. 
 
 Inställning för Bankgirot:
 Namn: 123-1234 (kontonummret)
@@ -121,7 +121,12 @@ Bank: (fältet) Namn: "Bankgirot", Bankidentifieringskod: "BGABSESS", Adress: "S
 
 Inställning för Handelsbanken:
 Namn: 123123123 (kontonummret)
-Bank: (fältet) Namn: "HANDSESS", Bankidentifieringskod: "SE686000", Adress: "Linköping, 58 103, Sverige"
+Bank: (fältet) Namn: "HANDSESS", Bankidentifieringskod: "SE686000", Adress: "Linköping, 581 03, Sverige" (Adress till bankkontoret.)
+
+Inställning för SEB:
+Namn: 123123123 (kontonummret)
+Bank: (fältet) Namn: "SEB", Bankidentifieringskod: "ESSESESS", Adress: "Stockholm, 106 40, Sverige" (Adress till bankkontoret.)
+
 
 Inställning för Swish:
 Namn: Swish (kontonummret)
