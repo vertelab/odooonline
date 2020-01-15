@@ -111,28 +111,27 @@ I den nya vyn i Swedbank finns csv som val att exportera.
 
 BankGirot / Bankkonto
 ----------------
-Lägg in kontonummer i Odoo.
-Bankkonton // Journallnamn
-Klicka på fliken Redovisning > Välj Konfiguration > Redovisning > Bankkonton. 
+* Lägg in kontonummer i Odoo.
+* Bankkonton // Journallnamn
+* Klicka på fliken Redovisning > Välj Konfiguration > Redovisning > Bankkonton. 
 
 Inställning för Bankgirot:
-Namn: 123-1234 (kontonummret)
-Bank: (fältet) Namn: "Bankgirot", Bankidentifieringskod: "BGABSESS", Adress: "Stockholm, 105 19, Sverige"
+* Namn: 123-1234 (kontonummret)
+* Bank: (fältet) Namn: "Bankgirot", Bankidentifieringskod: "BGABSESS", Adress: "Stockholm, 105 19, Sverige"
 
 Inställning för Handelsbanken:
-Namn: 123123123 (kontonummret)
-Bank: (fältet) Namn: "HANDSESS", Bankidentifieringskod: "SE686000", Adress: "Linköping, 581 03, Sverige" (Adress till bankkontoret.)
+* Namn: 123123123 (kontonummret)
+* Bank: (fältet) Namn: "HANDSESS", Bankidentifieringskod: "SE686000", Adress: "Linköping, 581 03, Sverige" (Adress till bankkontoret.)
 
 Inställning för SEB:
-Namn: 123123123 (kontonummret)
-Bank: (fältet) Namn: "SEB", Bankidentifieringskod: "ESSESESS", Adress: "Stockholm, 106 40, Sverige" (Adress till bankkontoret.)
-
+* Namn: 123123123 (kontonummret)
+* Bank: (fältet) Namn: "SEB", Bankidentifieringskod: "ESSESESS", Adress: "Stockholm, 106 40, Sverige" (Adress till bankkontoret.)
 
 Inställning för Swish:
-Namn: Swish (kontonummret)
-Inget mer.
+* Namn: Swish (kontonummret)
+* Inget mer.
 
 Ordningsföljden på dessa: (valfritt)
-1. Handelsbanken / SEB / Swedbank
-2. BankGirot
-3. Swish
+* 1. Handelsbanken / SEB / Swedbank
+* 2. BankGirot
+* 3. Swish
