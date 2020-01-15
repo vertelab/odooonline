@@ -139,4 +139,5 @@ Ordningsföljden på dessa: (valfritt)
 
 Redovisning (länken)
 ----------------
+När man klickar på länken Redovisning vill man gärna att rutorna ska komma i rätt ordning. Denna ordningsföljd kan du ändra under rubriken Journaler.
 .. image:: images/journaler_ordning.png
