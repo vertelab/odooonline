@@ -135,3 +135,8 @@ Ordningsföljden på dessa: (valfritt)
 * 1. Handelsbanken / SEB / Swedbank
 * 2. BankGirot
 * 3. Swish
+
+
+Redovisning (länken)
+----------------
+.. image:: images/journaler_ordning.png
