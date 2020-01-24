@@ -55,3 +55,34 @@ Customer Portal
    :maxdepth: 1
 
    access_timesheet_on_portal.rst
+
+
+Varor, produkter
+--------------
+
+
+.. tip::
+
+   Med hjälp av modulen.... kan man göra ett prydligt urval.
+
+
+Med hjälp av denna modulen kan man lätt får ett fint oc h prydligt urval.
+
+.. image:: images/urval-1.png
+   :align: center
+
+Skriv "juzo", välj "Produkt", tryck Enter. 
+
+Skriv "37", välj "Attribut", tryck Shift + Enter. 
+
+Skriv "ad", välj "Attribut", tryck Shift + Enter. 
+
+Skriv "dekor", välj "Attribut", tryck Shift + Enter. 
+
+.. image:: images/urval-2.png
+   :align: center
+
+Så här blir urvalet i annat fall.
+
+.. image:: images/urval-3.png
+   :align: center
