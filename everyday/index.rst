@@ -162,10 +162,11 @@ Klicka på Applikationer och sök på "ribbon" för att installera "web_environm
 Hjälp, dokumentation
 ----------------
 
-Klicka på Applikationer och sök på "help" för att installera "help_online". Med denna modul kan man ladda upp bilder och göra  anteckningar inne i Odoo.
+Med denna modul kan man ladda upp bilder och göra  anteckningar inne i Odoo. Klicka på Applikationer och sök på "help" för att installera "help_online". 
 
 .. image:: images/module_help_online.png
 
+Välj att "Administrera rättigheter" på dina användare och välj lämplig behörighet för Dokumentation.
 
 .. image:: images/module_help_settings.png
 
