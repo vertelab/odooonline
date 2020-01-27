@@ -150,3 +150,11 @@ När man klickar på länken Redovisning vill man gärna att rutorna ska komma i
 (Redovisning > Konfiguration > Redovisning > Journaler)
 
 .. image:: images/journaler_ordning.png
+
+
+Test
+----------------
+
+Klicka på Applikationer och sök på "ribbon" för att installera "web_environment_ribbon".
+
+.. image:: images/module_ribbon.png
