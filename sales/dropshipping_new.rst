@@ -28,13 +28,13 @@ I fliken lager, kryssa direktleverans och make to order. Lägg in din leverantö
    :align: center
 
 Ibland kan man behöva läsa in produkten på nytt för att vara säker på att alla nya uppgifter är inlästa på orderraden.
-Kunderorderen kan se exempelvis såhär:
+Kunderorderen kan se exempelvis så här:
 
-.. image:: dropshipping_new/kundorder.png
+.. image:: dropshipping_new/kunderorder.png
    :align: center
 
 Nu kan kunden få sin order och faktura i vanlig ordning. En inköpsorder är skapad som används i samband med granskning av leverantörsfakturan när det anländer.
-Inköpsorderen kan se exempelvis såhär:
+Inköpsorderen kan se exempelvis så här:
 
 .. image:: dropshipping_new/inkopsorder.png
    :align: center
