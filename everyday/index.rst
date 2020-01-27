@@ -166,5 +166,6 @@ Klicka på Applikationer och sök på "help" för att installera "help_online". 
 
 .. image:: images/module_help_online.png
 
+
 .. image:: images/module_help_settings.png
 
