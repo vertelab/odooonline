@@ -158,3 +158,13 @@ Test
 Klicka på Applikationer och sök på "ribbon" för att installera "web_environment_ribbon".
 
 .. image:: images/module_ribbon.png
+
+Hjälp, dokumentation
+----------------
+
+Klicka på Applikationer och sök på "help" för att installera "help_online". Med denna modul kan man ladda upp bilder och göra  anteckningar inne i Odoo.
+
+.. image:: images/module_help_online.png
+
+.. image:: images/module_help_settings.png
+
