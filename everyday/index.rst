@@ -93,7 +93,7 @@ Anslagstavlan
 Förbereda för drift.
 =================
 
-.. tip:: Nedan följer saker att tänka på för att göra iordning Odoo för drift. Det krävs varierande mängd förkunskaper för denna delen, men lite ska väl ändå de flesta förstå!
+.. tip:: Nedan följer saker att tänka på för att göra i ordning Odoo för drift.
 
 
 Bankfilen
