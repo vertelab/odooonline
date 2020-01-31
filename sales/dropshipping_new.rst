@@ -9,7 +9,7 @@ I detta exempel gör vi ett inköp av produkter som vi normalt inte lagerför so
 Kundorder
 ---------
 
-Börjar med att skapa en kundorder, ange kund som vanligt. Skapa orderrader, i ett seperat fönster surfa in till din leverantör och välj ut produkter.
+Börjar med att skapa en kundorder, ange kund som vanligt. Skapa orderrader, i ett seperat fönster surfa in till din leverantör och välj ut produkter. (Lager > Lagerstyrning > Produkter)
 
 .. image:: dropshipping_new/inet.png
    :align: center
