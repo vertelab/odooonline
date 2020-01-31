@@ -9,7 +9,7 @@ I detta exempel gör vi ett inköp av produkter som vi normalt inte lagerför so
 Kundorder
 ---------
 
-Börjar med att skapa en kundorder, ange kund som vanligt. Skapa orderrader, i ett seperat fönster surfa in till din leverantör och välj ut produkter. (Lager > Lagerstyrning > Produkter. Klicka på länken "Skapa".)
+Börjar med att skapa en kundorder, ange kund som vanligt. Skapa orderrader, i ett seperat fönster surfa in till din leverantör och välj ut produkter.
 
 .. image:: dropshipping_new/inet.png
    :align: center
@@ -17,7 +17,7 @@ Börjar med att skapa en kundorder, ange kund som vanligt. Skapa orderrader, i e
 Skapa produkt
 -------------
 
-Skapa en ny produkt, direkt från orderformuläret. Klistra in lämpliga uppgifter från webbutiken. Ange produkttypen: Förbrukningsvara och sätt säljpris till det pris du vill debitera din kund.
+Skapa en ny produkt, direkt från orderformuläret. Klistra in lämpliga uppgifter från webbutiken. Ange produkttypen: Förbrukningsvara och sätt säljpris till det pris du vill debitera din kund.  (Lager > Lagerstyrning > Produkter. Klicka på länken "Skapa".)
 
 .. image:: dropshipping_new/skapa_produkt_1.png
    :align: center
