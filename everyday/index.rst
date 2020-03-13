@@ -74,7 +74,7 @@ Accounting
 .. toctree::
    :maxdepth: 1
 
-   ../accounting/myndighetsrapportering.rst
+   /accounting/myndighetsrapportering.rst
 
 
 
