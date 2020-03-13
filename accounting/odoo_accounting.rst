@@ -57,6 +57,14 @@ Beräknar den skatt du är skyldig till din skattemyndighet
 ---------------------------------------------
 Odoo uppräknar alla dina bokföringstransaktioner för din skatteperiod och använder dessa summor för att beräkna din skattskyldighet. Du kan då kolla din moms genom att köra Odoos Skatterapport.
 
+Myndighetsrapportering
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   myndighetsrapportering.rst
+
 Inventarvärdering
 -------------------
 Odoo stöder både periodiska (manuella) och eviga (automatiska) inventeringsvärderingar. De tillgängliga metoderna är standardpris, genomsnittspris, LIFO (för länder som tillåter det) och FIFO.
