@@ -72,9 +72,9 @@ Accounting
 * Skickar in deklarationsfiler
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   myndighetsrapportering.rst
+   ../accounting/myndighetsrapportering.rst
 
 
 
