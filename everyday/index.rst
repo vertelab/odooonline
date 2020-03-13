@@ -67,6 +67,11 @@ Myndighetsrapportering och bank
 * Genomför betalningar
 * Skickar in deklarationsfiler
 
+.. toctree::
+   :maxdepth: 2
+
+   myndighetsrapportering.rst
+
 
 
 Viktiga datum
