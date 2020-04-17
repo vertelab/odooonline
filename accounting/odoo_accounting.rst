@@ -73,3 +73,12 @@ Odoo stöder både periodiska (manuella) och eviga (automatiska) inventeringsvä
    :maxdepth: 1
 
    odoo_accounting_config.rst
+
+Hitta i Odoo
+-------------------
+Lär dig hitta i Odoo!
+
+.. toctree::
+   :maxdepth: 1
+
+   find_in_odoo.rst
