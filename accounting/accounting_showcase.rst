@@ -15,7 +15,7 @@ Ladda upp kvitto, verifikat
 | 
 | 
 | Här är ett exempel på hur det kan se ut på din webbplats. Färger och typsnitt kan variera från ett projekt till ett annat.
-
+| 
 .. image:: images/upload_voucher.png
 
 
