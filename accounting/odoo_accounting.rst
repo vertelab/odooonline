@@ -59,7 +59,7 @@ Odoo uppräknar alla dina bokföringstransaktioner för din skatteperiod och anv
 
 Bokföring i praktiken
 -------------------
-Att ladda upp kvitto för verifikat. Att hantera bankfiler från 1. BnkGirot och 2. Din Bank och just i den ordningen, det är viktigt!
+Att ladda upp kvitto för verifikat. Att hantera bankfiler från 1. BankGirot och 2. Din Bank och just i den ordningen, det är viktigt!
 
 
 .. toctree::
