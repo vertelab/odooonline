@@ -13,3 +13,7 @@ Fyll i uppgifterna och ladda upp bilden. <br>
 "Skicka" och allt är klart! <br>
 Spara adressen på telefonen för snabbare hantering vid nästa tillfälle.<br>
 
+
+.. image:: images/upload_voucher.png
+
+
