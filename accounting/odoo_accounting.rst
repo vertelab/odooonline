@@ -57,6 +57,18 @@ Beräknar den skatt du är skyldig till din skattemyndighet
 ---------------------------------------------
 Odoo uppräknar alla dina bokföringstransaktioner för din skatteperiod och använder dessa summor för att beräkna din skattskyldighet. Du kan då kolla din moms genom att köra Odoos Skatterapport.
 
+Bokföring i praktiken
+-------------------
+Att ladda upp kvitto för verifikat. Att hantera bankfiler från 1. BnkGirot och 2. Din Bank och just i den ordningen, det är viktigt!
+
+
+.. toctree::
+   :maxdepth: 1
+
+   accounting_showcase.rst
+
+
+
 Myndighetsrapportering
 -------------------
 
