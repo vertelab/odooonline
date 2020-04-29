@@ -6,7 +6,7 @@ Bokföring i praktiken
 ======================
 Ladda upp kvitto, verifikat
 ======================
-Ta en bild av ditt kvitto. <br>
+Ta en bild av ditt kvitto. <br />
 Gå in på adressen /upload_voucher på din webbplats.<br>
 Logga in.<br>
 Fyll i uppgifterna och ladda upp bilden. <br>
