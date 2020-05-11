@@ -140,9 +140,9 @@ Inställning för Swish:
 
 Ordningsföljden på dessa:
 
-1. Swish
-1. BankGirot
-1. Handelsbanken / SEB / Swedbank
+* (1.) Swish
+* (2.) BankGirot
+* (3.) Handelsbanken / SEB / Swedbank
 
 
 Redovisning (länken)
