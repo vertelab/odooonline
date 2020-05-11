@@ -138,11 +138,11 @@ Inställning för Swish:
 * Namn: Swish (kontonummret)
 * Inget mer.
 
-Ordningsföljden på dessa: (valfritt)
+Ordningsföljden på dessa:
 
-* 1. Handelsbanken / SEB / Swedbank
+* 1. Swish
 * 2. BankGirot
-* 3. Swish
+* 3. Handelsbanken / SEB / Swedbank
 
 
 Redovisning (länken)
