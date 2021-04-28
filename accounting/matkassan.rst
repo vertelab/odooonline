@@ -12,13 +12,14 @@ Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 
 
 
-<img src="../images/matkassan_x01.png">
-
-<img ser="https://github.com/vertelab/odooonline/blob/master/accounting/matkassan.rst">
-
-
-![alt text](https://github.com/vertelab/odooonline/blob/master/accounting/matkassan.rst)
+.. image:: ../images/matkassan_x01.png
+    :scale: 50 %
 
 
+.. image:: ../images/matkassan_x02.png
+    :scale: 50 %
+    
+    
+.. image:: ../images/matkassan_x03.png
+    :scale: 50 %
 
-<img src="https://github.com/vertelab/odooonline/blob/master/accounting/matkassan.rst" width="200">
