@@ -54,6 +54,14 @@ Betalningar och påminnelser
    Xadvance_payment_from_customer.rst
    Xprint_customer_ledger.rst
 
+
+Odoo i praktiken
+-------------------
+.. toctree::
+   :maxdepth: 1
+
+   matkassan.rst
+   
 ..
   Setup Accounting
   ----------------
