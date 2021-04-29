@@ -77,6 +77,7 @@ Inköpskvitto
 .. image:: images/matkassan_04.png
     :scale: 80 %
 
+
 Bokföring
     När du gjort ditt matinköp fotar du kvittot som verifikat och lägger in inköpet i Odoo.
 
@@ -84,11 +85,13 @@ Bokföring
 .. image:: images/matkassan_05.png
     :scale: 80 %
 
+
 Bokföring
     Du har varit på Coop och köpt mat kontant.
 
 .. image:: images/matkassan_06.png
     :scale: 80 %
+
 
 Bokföring
     Här skriver du in ditt inköp i Odoo.
