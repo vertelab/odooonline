@@ -55,7 +55,9 @@ Fakturan
     
     Vi har valt "matkassa" som Objektkonto och momsen ska vara MP2i, vilket står för inkluderad. 
     
-    Mat är 12% moms och plastbestick, plastmuggar och servetter är det 25% moms. 
+    Mat är 12% moms och plastbestick, plastmuggar och servetter är det 25% moms.
+    
+    Klicka till Redovisning i menyn, se Kundfakturor i vänstermarginalen.
 
 
 .. image:: images/matkassan_01.png
@@ -66,6 +68,11 @@ Fakturan
 
 .. image:: images/matkassan_03.png
     :scale: 80 %
+
+Inköpskvitto
+    I exemplet har vi valt att varje "enhet" kostar 1 krona och att man får fylla på med så många enherer som man har kommit överens att köpa mat för.
+
+
 
 .. image:: images/matkassan_04.png
     :scale: 80 %
