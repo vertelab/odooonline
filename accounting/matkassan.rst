@@ -12,7 +12,7 @@ Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 
 
 
-.. image:: ../images/matkassan_x01.png
+.. image:: images/matkassan_x01.png
     :scale: 50 %
 
 
