@@ -6,25 +6,25 @@ Myndighetsrapportering
 ======================
 Arbetsgivardeklaration
 ======================
-Här! Lite text om denna saken! Eller nåt!
+Text om denna saken.
 
 
 ======================
 Momsdeklaration
 ======================
-Här! Lite text om denna saken! Eller nåt!
+Text om denna saken.
 
 
 ======================
 Inkomstdeklaration
 ======================
-Här! Lite text om denna saken! Eller nåt!
+Text om denna saken.
 
 
 ======================
 Periodisk sammanställning
 ======================
-Här! Lite text om denna saken! Eller nåt!
+Text om denna saken.
 
 ======================
 Kalender, schemalagda aktiviteter
