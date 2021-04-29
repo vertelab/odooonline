@@ -9,6 +9,19 @@
 Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 ========================================
 
+Objektkonto
+------------
+
+Objektkonto
+    Under Redovisning, menyvalet Objektposter.
+
+
+.. image:: images/objektkonto_01.png
+    :scale: 80 %
+
+
+.. image:: images/objektkonto_01.png
+    :scale: 80 %
 
 
 Objektpost, faktura och bokföring
