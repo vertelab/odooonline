@@ -16,15 +16,22 @@ Objektposter
     Bekanta dig med Objektposter. Summera och ha kontroll på gemensamma kostnader och inkomst på samma ställe.
 
 
-
 .. image:: images/matkassan_x01.png
     :scale: 80 %
 
 
+Objektposter
+    Jämför med vyn i din bokföring.
+
+
 .. image:: images/matkassan_x02.png
     :scale: 80 %
-    
-    
+
+
+Objektposter
+    Detaljer kan skilja.
+
+
 .. image:: images/matkassan_x03.png
     :scale: 80 %
 
