@@ -50,9 +50,13 @@ Objektposter
 
 
 
-Huvudmeny
-    Undermeny och beskrivande
-    text till allt det.
+Fakturan
+    I exemplet har vi valt att varje "enhet" kostar 1 krona och att man får fylla på med så många enherer som man har kommit överens att köpa mat för.
+    
+    Vi har valt "matkassa" som Objektkonto och momsen ska vara MP2i, vilket står för inkluderad. 
+    
+    Mat är 12% moms och plastbestick, plastmuggar och servetter är det 25% moms. 
+
 
 .. image:: images/matkassan_01.png
     :scale: 80 %
