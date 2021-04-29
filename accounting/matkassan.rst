@@ -76,3 +76,13 @@ Inköpskvitto
 
 .. image:: images/matkassan_04.png
     :scale: 80 %
+
+.. image:: images/matkassan_05.png
+    :scale: 80 %
+
+
+.. image:: images/matkassan_06.png
+    :scale: 80 %
+
+.. image:: images/matkassan_07.png
+    :scale: 80 %
