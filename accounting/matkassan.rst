@@ -20,7 +20,7 @@ Objektkonto
     :scale: 80 %
 
 
-.. image:: images/objektkonto_01.png
+.. image:: images/objektkonto_02.png
     :scale: 80 %
 
 
