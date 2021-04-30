@@ -20,7 +20,7 @@ Objektkonto
     :scale: 80 %
 
 
-Inställningar
+Objektkontoplan / ny
     Här ställer man in kund och referens.
 
 
