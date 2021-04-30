@@ -20,6 +20,12 @@ Objektkonto
     :scale: 80 %
 
 
+Inställningar
+    Här ställer man in kund och referens.
+
+
+
+
 .. image:: images/objektkonto_02.png
     :scale: 80 %
 
