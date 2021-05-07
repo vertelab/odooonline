@@ -69,7 +69,7 @@ Redigera verifikat
 .. image:: images/matkassan2_kvitto3.png
 
 
-Det är viktigt att du är inloggad när du lägger in kvitton från telefonen.
+Det är viktigt att du är inloggad när du lägger in kvitton från telefonen. Det går inte att uppdatera affärssystemet med bokföring om man inte är inloggad.
 
 .. image:: images/matkassan2_kvitto4.png
 
