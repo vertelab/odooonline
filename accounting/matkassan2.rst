@@ -74,7 +74,16 @@ Det är viktigt att du är inloggad när du lägger in kvitton från telefonen. 
 .. image:: images/matkassan2_kvitto4.png
 
 
+Uppföljining
+------------
 
+Kontrollera
+    Välj Objektkonto i menyn, samma som ovan, klicka på kostnad / intäkt för att se balansen.
+
+.. image:: images/matkassan2_kvitto5.png
+
+
+.. image:: images/matkassan2_kvitto6.png
 
 
 
