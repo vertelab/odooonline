@@ -18,7 +18,17 @@ Fakturera
     Börja med att fakturera kunden för kommande inköp.
 
 
-.. image:: images/objektkonto_01.png
+.. image:: images/matkassan2_01.png
+    :scale: 80 %
+
+.. image:: images/matkassan2_02.png
+    :scale: 80 %
+
+.. image:: images/matkassan2_03.png
+    :scale: 80 %
+
+
+.. image:: images/matkassan2_04.png
     :scale: 80 %
 
 
