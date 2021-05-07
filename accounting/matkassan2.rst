@@ -33,6 +33,11 @@ Objektkonto och moms
 .. image:: images/matkassan2_02.png
 
 
+Administrera objektkonto
+    Redovisning > Konfiguration > Objektkonto
+    
+    Här administrerar du dina konton. De kan vara kopplade till en viss kund eller till ett visst projekt eller för att få överblick av kostnaden för en viss aktivitet.
+
 .. image:: images/matkassan2_03.png
 
 
