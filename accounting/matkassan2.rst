@@ -9,6 +9,17 @@
 Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 ========================================
 
+
+Faktura
+------------
+
+
+Fakturera
+    Börja med att vara beredd att fakturera kunden för kommande inköp.
+
+
+
+
 Objektkonto
 ------------
 
