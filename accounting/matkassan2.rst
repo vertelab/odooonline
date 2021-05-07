@@ -19,17 +19,16 @@ Fakturera
 
 
 .. image:: images/matkassan2_01.png
-    :scale: 80 %
+
 
 .. image:: images/matkassan2_02.png
-    :scale: 80 %
+
 
 .. image:: images/matkassan2_03.png
-    :scale: 80 %
 
 
 .. image:: images/matkassan2_04.png
-    :scale: 80 %
+
 
 
 
