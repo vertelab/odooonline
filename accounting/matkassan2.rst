@@ -48,7 +48,7 @@ Skicka in ett kvitto
 ------------
 
 
-Fota kvittona rätt in i affärssystemet
+Fota kvittona rakt in i affärssystemet
     Lägg in adressen URL-till-din-hemsia.se/upload_voucher som bokmärke i telefonen. Fota dina kvitton. Obs! Du måste se till att vara inloggad! Då fungerar det.
 
 
