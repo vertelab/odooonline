@@ -15,7 +15,7 @@ Planerade inköp
 
 
 Fakturera
-    Börja med att fakturera kunden för kommande inköp.
+    Fakturera kunden för kommande inköp.
 
 
 .. image:: images/matkassan2_01.png
