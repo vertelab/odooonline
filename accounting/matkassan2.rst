@@ -62,6 +62,10 @@ Här hamnar dina kvitton
 .. image:: images/matkassan2_kvitto2.png
 
 
+Redigera verifikat
+    Du kan lägga in både foto och kostnad i efterhand.
+
+
 .. image:: images/matkassan2_kvitto3.png
 
 
