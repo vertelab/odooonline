@@ -65,6 +65,8 @@ Här hamnar dina kvitton
 .. image:: images/matkassan2_kvitto3.png
 
 
+Det är viktigt att du är inloggad när du lägger in kvitton från telefonen.
+
 .. image:: images/matkassan2_kvitto4.png
 
 
