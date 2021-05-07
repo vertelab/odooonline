@@ -54,6 +54,11 @@ Fota kvittona rätt in i affärssystemet
 
 .. image:: images/matkassan2_kvitto1.png
 
+
+Här hamnar dina kvitton
+    Dina kvitton hamnar i projektet "Kvitton". Du kan även skapa och lägga till kvitton i efterhand.
+    
+
 .. image:: images/matkassan2_kvitto2.png
 
 
