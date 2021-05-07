@@ -44,6 +44,25 @@ Administrera objektkonto
 .. image:: images/matkassan2_04.png
 
 
+Skicka in ett kvitto
+------------
+
+
+Fota kvittona rätt in i affärssystemet
+    Lägg in adressen URL-till-din-hemsia.se/upload_voucher som bokmärke i telefonen. Fota dina kvitton. Obs! Du måste se till att vara inloggad! Då fungerar det.
+
+
+.. image:: images/matkassan2_kvitto1.png
+
+.. image:: images/matkassan2_kvitto2.png
+
+
+.. image:: images/matkassan2_kvitto3.png
+
+
+.. image:: images/matkassan2_kvitto4.png
+
+
 
 
 
