@@ -61,7 +61,7 @@ Odoo i praktiken
    :maxdepth: 1
 
    matkassan.rst
-   matkassan_2.rst
+   matkassan2.rst
    
 ..
   Setup Accounting
