@@ -1,14 +1,14 @@
 ========================================
-Löneutbetalning. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
+Löning. Redovisa kostnaden månadsvis.
 ========================================
 
 
-Planerade inköp
+Löneutbetalning
 ------------
 
 
-Fakturera
-    Fakturera kunden för kommande inköp.
+Textblock
+    Informationsfält.
 
 
-.. image:: images/matkassan2_01.png
+.. image:: images/exempelbilden.png
