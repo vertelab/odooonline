@@ -27,7 +27,7 @@ Klicka på "Registrera betalning" för att välja betalsätt.
 
 .. image:: images/matkassan3_02.png
 
-Olika betalsätt.
+Olika betalsätt. Det första är Bank Girot, vilket kan vara aktuellt, sen bankkontot vilket sällan är aktuellt. Swish och iZettle förutsätter att man har avtal med dessa tjänster för betalning.
 
 .. image:: images/matkassan3_03.png
 
