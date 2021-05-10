@@ -13,16 +13,34 @@ Matkassan. Avräkna kvitto mot matkassan.
 Planerade inköp
 ------------
 
-
-Överblick
-    Fakturera kunden för kommande inköp.
+Fakturera kunden för kommande inköp.
+    I detta exemplet fakturerar vi kunden i förskott.
 
 
 .. image:: images/matkassan3_01.png
+
+
+Vi har markerat på fakturan, "matkassa - Testkund", att summan går att räkna av mot. MP2 är 12% moms på livsmedel / mat.
+
+Klicka på "Registrera betalning" för att välja betalsätt.
+
+
 .. image:: images/matkassan3_02.png
+
+Olika betalsätt.
+
 .. image:: images/matkassan3_03.png
+
+
 .. image:: images/matkassan3_04.png
+
+
+
+
 .. image:: images/matkassan3_05.png
+
+Fakturan blir markerad Betald och genom att hålla musen över "i" kan man se Betalinformation.
+
 .. image:: images/matkassan3_06.png
 
 
