@@ -20,7 +20,7 @@ Fakturera kunden för kommande inköp.
 .. image:: images/matkassan3_01.png
 
 
-Vi har markerat på fakturan, "matkassa - Testkund", att summan går att räkna av mot. MP2 är 12% moms på livsmedel / mat.
+Vi har markerat på fakturan, "matkassa - Testkund", att summan går att räkna av mot.
 
 Klicka på "Registrera betalning" för att välja betalsätt.
 
