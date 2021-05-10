@@ -31,15 +31,16 @@ Olika betalsätt.
 
 .. image:: images/matkassan3_03.png
 
+När du är nöjd trycker du på Bekräfta.
 
 .. image:: images/matkassan3_04.png
 
 
-
+Fakturan blir markerad Betald.
 
 .. image:: images/matkassan3_05.png
 
-Fakturan blir markerad Betald och genom att hålla musen över "i" kan man se Betalinformation.
+Genom att hålla musen över "i" kan man se Betalinformation.
 
 .. image:: images/matkassan3_06.png
 
