@@ -19,4 +19,10 @@ Ladda bankfilen.
 
 
 
-.. image:: images/matkassan3_01.png
+.. image:: images/matkassan4_01.png
+.. image:: images/matkassan4_02.png
+.. image:: images/matkassan4_03.png
+
+
+
+.. image:: images/matkassan4_04.png
