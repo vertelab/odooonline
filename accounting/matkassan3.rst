@@ -40,7 +40,7 @@ Fakturan blir markerad Betald.
 
 .. image:: images/matkassan3_05.png
 
-Genom att hålla musen över "i" kan man se Betalinformation.
+Genom att hålla musen över "i"-ikonen kan man se Betalinformation.
 
 .. image:: images/matkassan3_06.png
 
