@@ -63,6 +63,7 @@ Odoo i praktiken
    matkassan.rst
    matkassan2.rst
    matkassan3.rst
+   matkassan4.rst
    
 ..
   Setup Accounting
