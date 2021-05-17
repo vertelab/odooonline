@@ -19,7 +19,6 @@ Under “Redovisning” finns det på vänster sida ett menyval under rubriken �
 .. image:: images/objektkonto1.png
     :scale: 80 %
 
-
 För att skapa nya objektkonto klickar man på skapa uppe till vänster. 
 
 .. image:: images/objektkonto2.png
