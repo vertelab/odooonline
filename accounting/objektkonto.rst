@@ -12,22 +12,35 @@ Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 Objektkonto
 ------------
 
-Objektkonto
-    Under Redovisning, menyvalet Objektposter.
+Poängen med objektkonto är att få överblick av konstnader kopplade till en viss händelse eller åtgärd som man själv väljer ett lämpligt namn på
 
+Under “Redovisning” finns det på vänster sida ett menyval under rubriken “Rådgivare” som heter “Objektkonton”. Där går det att se befintliga objektkonton och skapa nya. 
 
-.. image:: images/objektkonto_01.png
+.. image:: images/objektkonto1.png
     :scale: 80 %
 
 
-Objektkontoplan / ny
-    Här ställer man in kund och referens.
+För att skapa nya objektkonto klickar man på skapa uppe till vänster. 
 
-
-
-
-.. image:: images/objektkonto_02.png
+.. image:: images/objektkonto2.png
     :scale: 80 %
+
+När man klickat på “Skapa” kan man exempelvis ställa in namnet på objektkontot, kund och referens. 
+
+.. image:: images/objektkonto3.png
+    :scale: 80 %
+
+När man är nöjd med sina ifyllningar kan man spara objektontot genom att klicka på “Spara” uppe I vänstra hörnet. 
+
+.. image:: images/objektkonto4.png
+    :scale: 80 %
+
+Alternativt kan man klicka in på en befintlig kund och sedan klicka på redigera för att kunna ändra I obejktkontot.
+
+.. image:: images/objektkonto5.png
+    :scale: 80 %
+
+När man har redigerat färdigt klickar man på “Spara” uppe I vänstra hörnet.
 
 
 Objektpost, faktura och bokföring
