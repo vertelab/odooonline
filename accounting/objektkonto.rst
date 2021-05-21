@@ -45,11 +45,11 @@ När man har redigerat färdigt klickar man på “Spara” uppe I vänstra hör
 Uppföljning
 -----------------------------------
 
-För att kontrollera att allting är korrekt på obejktkontot kan man välja “Objektonton” I vänster meny och sedan klicka in på ett objektkonto 
+För att kontrollera att allting är korrekt på obejktkontot kan man välja “Objektonton” I vänster meny och sedan klicka in på ett objektkonto. 
 
 Bild 6. 
 
-Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till höger för att se kontots balans, förutsatt att objektkontot har hunnit användas Jakobs bild 1 och 2 
+Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till höger för att se kontots balans, förutsatt att objektkontot har hunnit användas.
 
 
 .. image:: images/matkassan2_kvitto5.png
@@ -59,16 +59,14 @@ Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till hög
 
 
 Objektposter
-    Jämför med vyn i din bokföring.
+   
+På vänster sida under “Rådgivare” finns det också ett  menyval för “Objektposter”. Under “Objektposter” går det att se en överblick över vilka intäkter och kostnader som är kopplade till olika Objektkonton. Bild 9. 
 
 
-.. image:: images/matkassan_x02.png
+.. image:: images/objektkonto9.png
     :scale: 80 %
-
 
 Objektposter
     Detaljer kan skilja.
 
 
-.. image:: images/matkassan_x03.png
-    :scale: 80 %
