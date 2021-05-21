@@ -42,26 +42,20 @@ Alternativt kan man klicka in på en befintlig kund och sedan klicka på rediger
 När man har redigerat färdigt klickar man på “Spara” uppe I vänstra hörnet.
 
 
-Objektpost, faktura och bokföring
+Uppföljning
 -----------------------------------
 
+För att kontrollera att allting är korrekt på obejktkontot kan man välja “Objektonton” I vänster meny och sedan klicka in på ett objektkonto 
 
-Objektposter
-    Under Redovisning, menyvalet Objektposter.
-    
-    Bekanta dig med Objektposter. Summera och ha kontroll på gemensamma kostnader och inkomst på samma ställe.
+Bild 6. 
 
-Faktura
-    Välj objektkonto på fakturan.
-
-Momssatser och 
-    Välj objektkonto på fakturan.
-    Dina utgifter
+Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till höger för att se kontots balans, förutsatt att objektkontot har hunnit användas Jakobs bild 1 och 2 
 
 
+.. image:: images/matkassan2_kvitto5.png
 
-.. image:: images/matkassan_x01.png
-    :scale: 80 %
+
+.. image:: images/matkassan2_kvitto6.png
 
 
 Objektposter
