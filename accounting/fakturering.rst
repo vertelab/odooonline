@@ -1,15 +1,10 @@
 .. _localorexportsalestax:
 
-.. index::
-   single: Matkassan. Ett exempel när ett företag (kunden) beställer en tjänst, 
-   att laga mat tillsammans, men uppdragsgivaren vill ha en "matkassa" att 
-   köpa mat för i förskott.  
-
 ========================================
 Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 ========================================
 
-Faktura
+Fakturera
 ------------
 
 När en faktura skapas kan den kopplas till ett objektkonto. Detta görs enligt följande steg: Under “Kundfakturor” som man hitar på vänster sida under “Försäljning” skapas en ny faktura genom att klicka på “Skapa”.
