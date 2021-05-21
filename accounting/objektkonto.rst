@@ -47,7 +47,8 @@ Uppföljning
 
 För att kontrollera att allting är korrekt på obejktkontot kan man välja “Objektonton” I vänster meny och sedan klicka in på ett objektkonto. 
 
-Bild 6. 
+.. image:: images/objektkonto6.png
+    :scale: 80 %
 
 Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till höger för att se kontots balans, förutsatt att objektkontot har hunnit användas.
 
@@ -65,8 +66,3 @@ På vänster sida under “Rådgivare” finns det också ett  menyval för “O
 
 .. image:: images/objektkonto9.png
     :scale: 80 %
-
-Objektposter
-    Detaljer kan skilja.
-
-
