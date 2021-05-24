@@ -60,7 +60,8 @@ Under “Annan info” går det Exempelvis att ställa in Skatteregion, Journal,
 .. image:: images/fakturering10.png
     :scale: 80 %
 
----
+Momsbeteckningar
+------------
 
 För att se vad de olika momsbeteckningarna innebär utan att behöva skapa en ny faktura går det att klicka på “Moms” som ligger under “Konfiguration” och “Redovisning” I den vänstra spalten. Man kan behöva scrolla ner för att hitta rätt rubrik.
 
