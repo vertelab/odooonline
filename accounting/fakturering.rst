@@ -70,28 +70,44 @@ Fakturering med produkt kräver lite mer tid än fakturering utan produkt den f�
 
 Skapa produkt
  För att skapa en produkt kan man börja med att klicka sig in på “Produkter för försäljning” under “Försäljning“ i vänstra kolumnen.
- Bild 1
+ 
+.. image:: images/fakturering2_1.png
+    :scale: 80 %
 
  Sedan klickar man på ”Skapa” uppe till vänster för att skapa en ny produkt.
- Bild 2
+
+.. image:: images/fakturering2_2.png
+    :scale: 80 %
 
  Det finns då flera saker som kan fyllas i där de obiligatoriska fälten är blå.  ”Produktnamn” ”Produkttyp” och ”Intern kategori” är obligatoriska att fylla i.
- Bild 3
+
+.. image:: images/fakturering2_3.png
+    :scale: 80 %
  
  Välj ett lämpligt produktnamn, samt vilken produkttyp och interna kategori den tillhör. För ”Produkttyp” kan man välja mellan ”Förbrukningsvara”, ”Tjänst” och ”Lagerförd artikel”, välj den produkttyp som är lämpligast för den valda produkten. 
- Bild 4
+
+.. image:: images/fakturering2_4.png
+    :scale: 80 %
  
  För ”Intern kategori” går det att välja på en befintlig kategori i listan som kommer upp eller leta igenom alla kategorier genom att klicka på ”Sök flera…” 
- Bild 5
+
+.. image:: images/fakturering2_5.png
+    :scale: 80 %
 
  Om ingen av de befintliga kategorierna är passande kan man skapa en ny kateogri genom att klicka på ”Skapa och redigera…” 
- Bild 6 
+
+.. image:: images/fakturering2_6.png
+    :scale: 80 %
 
  Efter att ha valt en befintlig kategori eller skapat en ny kategori finns det ett flertal andra saker som man kan sedan ställa in under flera olika flikar. En av de viktigaste flikarna att ställa in för att underlätta faktureringen är  fliken ”Fakturering”. Här kan man bland annat ställa in vilket intäktskonto som ska användas samt vilken skatt som ska knytas till kunden. 
- Bild 7
+
+.. image:: images/fakturering2_7.png
+    :scale: 80 %
 
  När man har fyllt i den information man vill kan man sedan spara produkten genom att klicka på ”Spara” uppe till vänster. 
- Bild 8
+
+.. image:: images/fakturering2_8.png
+    :scale: 80 %
 
 
 Skapa kundfaktura
