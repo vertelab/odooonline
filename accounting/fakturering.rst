@@ -128,29 +128,24 @@ Istället för att börja fylla i saker manuellt börjar man här istället med 
 .. image:: images/fakturering2_9.png
     :scale: 80 %
  
-Om ingen av de produkter som visas är den som eftersöks kan man klicka på ”Sök flera…” för att få upp en större lista över produkter där man kan söka efter sin produkt. 
+Om ingen av de produkter som visas är den som eftersöks kan man klicka på ”Sök flera…” för att få upp en större lista över produkter där man kan söka efter sin produkt. Alternativt kan man välja att skapa en ny produkt härifrån genom att klicka på ”Skapa och redigera…”. Då går man igenom samma steg som presenterades tidigare under rubriken ”Skapa produkt”.
  
 .. image:: images/fakturering2_10.png
     :scale: 80 %
 
-Alternativt kan man välja att skapa en ny produkt härifrån genom att klicka på ”Skapa och redigera…”. Då går man igenom samma steg som presenterades tidigare under rubriken ”Skapa produkt”.
+När en produkt har valts kommer flera fält automatiskt att fyllas i. Vilka fält som fylls i beror på vad som ställdes in när produkten skapades, där exempelvis ”Beskrivning”, ”Konto”, ”Styckpris” och ”Moms” kan vara ifyllda. Exempelvis kvantitet och styckpris kan behöva ändras beroende på vad som gäller för den specifika fakturan.
 
 .. image:: images/fakturering2_11.png
     :scale: 80 %
 
-När en produkt har valts kommer flera fält automatiskt att fyllas i. Vilka fält som fylls i beror på vad som ställdes in när produkten skapades, där exempelvis ”Beskrivning”, ”Konto”, ”Styckpris” och ”Moms” kan vara ifyllda. Exempelvis kvantitet och styckpris kan behöva ändras beroende på vad som gäller för den specifika fakturan.
-
-.. image:: images/fakturering2_12.png
-    :scale: 80 %
-
 Om man vill använda sig av objektkonton behöver man välja det manuellt, vilket likt fakturering utan produkt görs genom att klicka på rutan och antingen välja ett objektkonto som visas direkt eller genom att klicka på ”Sök flera...”. 
  
-.. image:: images/fakturering2_13.png
+.. image:: images/fakturering2_12.png
     :scale: 80 %
 
 När allting är ifyllt kan man spara fakturan genom att klicka på ”Spara” uppe till vänster. 
 
-.. image:: images/fakturering2_14.png
+.. image:: images/fakturering2_13.png
     :scale: 80 %
  
     
