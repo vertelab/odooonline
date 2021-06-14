@@ -1,11 +1,8 @@
 .. _localorexportsalestax:
 
 ========================================
-Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
+Registrera betalningar
 ========================================
-
-Registrera betalning
-------------
 
 För att registrera en betalning kan man göra enligt följande:
 
