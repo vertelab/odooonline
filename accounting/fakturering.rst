@@ -142,7 +142,7 @@ När en produkt har valts kommer flera fält automatiskt att fyllas i. Vilka fä
 
 Om man vill använda sig av objektkonton behöver man välja det manuellt, vilket likt fakturering utan produkt görs genom att klicka på rutan och antingen välja ett objektkonto som visas direkt eller genom att klicka på ”Sök flera...”. 
  
-.. image:: images/fakturering2_12.pngNär allting är ifyllt kan man spara fakturan genom att klicka på ”Spara” uppe till vänster
+.. image:: images/fakturering2_12.png
     :scale: 80 %
 
 När allting är ifyllt kan man spara fakturan genom att klicka på ”Spara” uppe till vänster. 
