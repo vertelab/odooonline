@@ -4,7 +4,7 @@
 Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 ========================================
 
-I följande exempel är viss information anonymiserad och det faktiska utseendet kan sklija sig åt från dessa exempel. De valda kontona, momssatserna och beloppen är endast påhittade exempel och kan inte ses som ett facait på vad som ska användas, utan det måste anpassas för vad som är korrekt för varje enskilt fall.   
+I följande exempel är viss information anonymiserad och det faktiska utseendet kan sklija sig åt från dessa exempel. De valda kontona, momssatserna och beloppen är endast påhittade exempel och kan inte ses som ett facit på vad som ska användas, utan det måste anpassas för vad som är korrekt för varje enskilt fall.   
 
 Fakturering
 ------------
@@ -51,7 +51,7 @@ Här går det att välja någon av de momssatser som syns i listan eller så gå
 
 I detta exempel valde vi “matkassa” som objektkonto, vi valde att varje ”enhet” kostar 1 krona och sedan får man fylla på med så många enherer som man har kommit överens att köpa mat för. (vilket var 800kr I det här fallet). I den här fakturan valdes exempelvis momssats MP2i, vilket innebär att moms ingår I priset. Momsen för MP2i är 12% vilket vadldes för att inköpet berör matinköp. 
 
-Momsen kan man administrera på två sätt. Antingen inkluderar man momsen i priset eller så tillkommer momsen på priset.
+Momsen kan  administreras på två sätt. Antingen inkluderas  momsen i priset eller så tillkommer momsen på priset.
 Om momsen ska tillkomma på det angivna priset väljer man exempelvis MP2 eller vill man att det angivna priset ska vara inklusive momsen väljer man exempelvis MP2i. “i” står alltså för inklusive moms.  
 
 Vill man lägga till fler poster kan man göra det genom att klicka på “Lägg till en post” och sedan fylla I informationen på liknande sätt som för den första posten.
@@ -68,7 +68,7 @@ Under “Annan info” går det Exempelvis att ställa in Skatteregion, Journal,
 Fakturering med produkt
 ------------    
 
-Fakturering med produkt kräver lite mer tid än fakturering utan produkt den första gången man ska fakturera för att skapa en produkt, men underlättar faktureringen av samma produkt vid varje efterföljande fakturering eftersom en del information automatiskt kommer att fyllas i. Att fakturera med produkt rekommenderas därför att göras för varor och tjänster som ofta faktureras. Inledningsvis börjar man med att skapa en produkt 
+Fakturering med produkt kräver lite mer tid än fakturering utan produkt den första gången man ska fakturera för att skapa en produkt, men underlättar faktureringen av samma produkt vid varje efterföljande fakturering eftersom en del information automatiskt kommer att fyllas i. Att fakturera med produkt rekommenderas därför att göras för varor och tjänster som ofta faktureras. Inledningsvis börjar man med att skapa en produkt. 
 
 Skapa produkt
  För att skapa en produkt kan man börja med att klicka sig in på “Produkter för försäljning” under “Försäljning“ i vänstra kolumnen.
@@ -142,7 +142,7 @@ När en produkt har valts kommer flera fält automatiskt att fyllas i. Vilka fä
 
 Om man vill använda sig av objektkonton behöver man välja det manuellt, vilket likt fakturering utan produkt görs genom att klicka på rutan och antingen välja ett objektkonto som visas direkt eller genom att klicka på ”Sök flera...”. 
  
-.. image:: images/fakturering2_12.png
+.. image:: images/fakturering2_12.pngNär allting är ifyllt kan man spara fakturan genom att klicka på ”Spara” uppe till vänster
     :scale: 80 %
 
 När allting är ifyllt kan man spara fakturan genom att klicka på ”Spara” uppe till vänster. 
