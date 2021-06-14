@@ -1,11 +1,9 @@
 .. _localorexportsalestax:
 
 ========================================
-Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
+Objektkonto
 ========================================
 
-Objektkonto
-------------
 
 Poängen med objektkonto är att få överblick av konstnader kopplade till en viss händelse eller åtgärd som man själv väljer ett lämpligt namn på
 
