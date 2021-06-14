@@ -1,17 +1,18 @@
 .. _localorexportsalestax:
 
 ========================================
-Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
+Fakturering
 ========================================
 
 I följande exempel är viss information anonymiserad och det faktiska utseendet kan sklija sig åt från dessa exempel. De valda kontona, momssatserna och beloppen är endast påhittade exempel och kan inte ses som ett facit på vad som ska användas, utan det måste anpassas för vad som är korrekt för varje enskilt fall.   
 
-Fakturering
-------------
-Det finns ett par olika sätt att hantera faktureringen beroende på om man har skapat produkter eller inte. Först presenteras fakturering utan produkt längre ner  presenteras fakturering med produkt.
+Det finns ett par olika sätt att hantera faktureringen beroende på om man har skapat produkter eller inte. Fakturering med produkt kräver lite mer tid än fakturering utan produkt den första gången man ska fakturera eftersom man måste börja med att "skapa" en produkt. Framtida fakturering av samma produkt förenklas dock eftersom en del information automatiskt kommer att fyllas i. Att fakturera med produkt rekommenderas därför att göras för varor och tjänster som ofta faktureras, medan fakturering utan produkt går snabbare för ovanliga faktureringar.
+
+Först presenteras fakturering utan produkt och längre ner  presenteras fakturering med produkt.
 
 Fakturering utan produkt
- Fakturering utan produkt görs enligt följande steg: Under “Kundfakturor” som man hittar på vänster sida under “Försäljning” skapas en ny faktura genom att klicka på “Skapa”.
+------------  
+Fakturering utan produkt görs enligt följande steg: Under “Kundfakturor” som man hittar på vänster sida under “Försäljning” skapas en ny faktura genom att klicka på “Skapa”.
 
 .. image:: images/fakturering1.png
     :scale: 80 %
@@ -66,9 +67,9 @@ Under “Annan info” går det Exempelvis att ställa in Skatteregion, Journal,
     
 
 Fakturering med produkt
-------------    
+------------     
 
-Fakturering med produkt kräver lite mer tid än fakturering utan produkt den första gången man ska fakturera för att skapa en produkt, men underlättar faktureringen av samma produkt vid varje efterföljande fakturering eftersom en del information automatiskt kommer att fyllas i. Att fakturera med produkt rekommenderas därför att göras för varor och tjänster som ofta faktureras. Inledningsvis börjar man med att skapa en produkt. 
+För att fakturera med produkt måste man börja med att skapa en eller flera produkter. 
 
 Skapa produkt
  För att skapa en produkt kan man börja med att klicka sig in på “Produkter för försäljning” under “Försäljning“ i vänstra kolumnen.
