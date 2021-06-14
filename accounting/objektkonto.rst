@@ -55,7 +55,7 @@ Väl inne I objekkontoto kan man klicka på “Kostnad/intäkt” uppe till hög
 
 
 Objektposter
-   På vänster sida under “Rådgivare” finns det också ett  menyval för “Objektposter”. Under “Objektposter” går det att se en överblick över vilka intäkter och kostnader som är kopplade till olika Objektkonton. Bild 9. 
+   På vänster sida under “Rådgivare” finns det också ett  menyval för “Objektposter”. Under “Objektposter” går det att se en överblick över vilka intäkter och kostnader som är kopplade till olika Objektkonton.
 
 
 .. image:: images/objektkonto9.png
