@@ -14,7 +14,7 @@ Fakturering utan produkt
 .. image:: images/fakturering1.png
     :scale: 80 %
     
- Efter att ha fyllt i kundinformation, betalningsvillkor mm. Kan man klicka på “Lägg till en post”.
+Efter att ha fyllt i kundinformation, betalningsvillkor mm. Kan man klicka på “Lägg till en post”.
 
 .. image:: images/fakturering2.png
     :scale: 80 %
