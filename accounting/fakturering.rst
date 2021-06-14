@@ -81,7 +81,7 @@ Skapa produkt
  Välj ett lämpligt produktnamn, samt vilken produkttyp och interna kategori den tillhör. För ”Produkttyp” kan man välja mellan ”Förbrukningsvara”, ”Tjänst” och ”Lagerförd artikel”, välj den produkttyp som är lämpligast för den valda produkten. 
  Bild 4
  
- För ”Intern kategori” går det att välja på en befintlig kategori i listan som kommer upp eller genom att klicka på ”Sök flera…” 
+ För ”Intern kategori” går det att välja på en befintlig kategori i listan som kommer upp eller leta igenom alla kategorier genom att klicka på ”Sök flera…” 
  Bild 5
 
  Om ingen av de befintliga kategorierna är passande kan man skapa en ny kateogri genom att klicka på ”Skapa och redigera…” 
