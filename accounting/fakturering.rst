@@ -4,6 +4,8 @@
 Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
 ========================================
 
+I följande exempel är viss information anonymiserad och det faktiska utseendet kan sklija sig åt från dessa exempel. De valda kontona, momssatserna och beloppen är endast påhittade exempel och kan inte ses som ett facait på vad som ska användas, utan det måste anpassas för vad som är korrekt för varje enskilt fall.   
+
 Fakturering
 ------------
 Det finns ett par olika sätt att hantera faktureringen beroende på om man har skapat produkter eller inte. Först presenteras fakturering utan produkt längre ner  presenteras fakturering med produkt.
