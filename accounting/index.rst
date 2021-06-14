@@ -64,7 +64,10 @@ Odoo i praktiken
    matkassan2.rst
    matkassan3.rst
    matkassan4.rst
+   objektkonto.rst
    fakturering.rst
+   registrera_betalning.rst
+   avstamning.rst
    
    
 ..
