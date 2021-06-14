@@ -1,11 +1,10 @@
 .. _localorexportsalestax:
 
 ========================================
-Matkassan. Köpa och bokföra mat i affäsrverksamheten för kunds räkning.
+Avstämning
 ========================================
 
-Avstämning
-------------
+
 
 För att göra en avstämning börjar man med att klicka sig in på “Stäm av artiklar” under “Översikt” 
 
