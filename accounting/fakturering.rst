@@ -74,37 +74,37 @@ Skapa produkt
 .. image:: images/fakturering2_1.png
     :scale: 80 %
 
- Sedan klickar man på ”Skapa” uppe till vänster för att skapa en ny produkt.
+Sedan klickar man på ”Skapa” uppe till vänster för att skapa en ny produkt.
 
 .. image:: images/fakturering2_2.png
     :scale: 80 %
 
- Det finns då flera saker som kan fyllas i där de obiligatoriska fälten är blå.  ”Produktnamn” ”Produkttyp” och ”Intern kategori” är obligatoriska att fylla i.
+Det finns då flera saker som kan fyllas i där de obiligatoriska fälten är blå.  ”Produktnamn” ”Produkttyp” och ”Intern kategori” är obligatoriska att fylla i.
 
 .. image:: images/fakturering2_3.png
     :scale: 80 %
  
- Välj ett lämpligt produktnamn, samt vilken produkttyp och interna kategori den tillhör. För ”Produkttyp” kan man välja mellan ”Förbrukningsvara”, ”Tjänst” och ”Lagerförd artikel”, välj den produkttyp som är lämpligast för den valda produkten. 
+Välj ett lämpligt produktnamn, samt vilken produkttyp och interna kategori den tillhör. För ”Produkttyp” kan man välja mellan ”Förbrukningsvara”, ”Tjänst” och ”Lagerförd artikel”, välj den produkttyp som är lämpligast för den valda produkten. 
 
 .. image:: images/fakturering2_4.png
     :scale: 80 %
  
- För ”Intern kategori” går det att välja på en befintlig kategori i listan som kommer upp eller leta igenom alla kategorier genom att klicka på ”Sök flera…” 
+För ”Intern kategori” går det att välja på en befintlig kategori i listan som kommer upp eller leta igenom alla kategorier genom att klicka på ”Sök flera…” 
 
 .. image:: images/fakturering2_5.png
     :scale: 80 %
 
- Om ingen av de befintliga kategorierna är passande kan man skapa en ny kateogri genom att klicka på ”Skapa och redigera…” 
+Om ingen av de befintliga kategorierna är passande kan man skapa en ny kateogri genom att klicka på ”Skapa och redigera…” 
 
 .. image:: images/fakturering2_6.png
     :scale: 80 %
 
- Efter att ha valt en befintlig kategori eller skapat en ny kategori finns det ett flertal andra saker som man kan sedan ställa in under flera olika flikar. En av de viktigaste flikarna att ställa in för att underlätta faktureringen är  fliken ”Fakturering”. Här kan man bland annat ställa in vilket intäktskonto som ska användas samt vilken skatt som ska knytas till kunden. 
+Efter att ha valt en befintlig kategori eller skapat en ny kategori finns det ett flertal andra saker som man kan sedan ställa in under flera olika flikar. En av de viktigaste flikarna att ställa in för att underlätta faktureringen är  fliken ”Fakturering”. Här kan man bland annat ställa in vilket intäktskonto som ska användas samt vilken skatt som ska knytas till kunden. 
 
 .. image:: images/fakturering2_7.png
     :scale: 80 %
 
- När man har fyllt i den information man vill kan man sedan spara produkten genom att klicka på ”Spara” uppe till vänster. 
+När man har fyllt i den information man vill kan man sedan spara produkten genom att klicka på ”Spara” uppe till vänster. 
 
 .. image:: images/fakturering2_8.png
     :scale: 80 %
