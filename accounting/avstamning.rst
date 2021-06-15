@@ -36,7 +36,7 @@ Om man hittar rätt motpart kan man sedan klicka på “Stäm av” uppe I högr
 .. image:: images/avstämning6.png
     :scale: 80 %
 
-Om det inte går att hitta rätt motpart I listan men man vet att den borde finnas I systemet kan man börja med att rätta det felaktiga verifikatet. Det kan även vara bra att kolla igenom exempelvis kvitton för att se om transaktionen finns dokumenterad någonstans. 
+Om det inte går att hitta rätt motpart i listan men man vet att den borde finnas i systemet kan man börja med att rätta det felaktiga verifikatet. Det kan även vara bra att kolla igenom exempelvis kvitton för att se om transaktionen finns dokumenterad någonstans. 
 Om transaktionen inte kan hittas någonstans kan man skapa ett nytt verifikat genom att göra följande:
 Klicka på “Välj motpart” för att få upp förslag på ett antal olika transaktioner. 
 
@@ -44,7 +44,7 @@ Klicka på “Välj motpart” för att få upp förslag på ett antal olika tra
     :scale: 80 %
 
 Här kan man leta efter vilken typ av transaktion som verifiktatet ska beröra. I det här fallet valde vi “Förbrukningsinventarier”. 
-När man har klickat på en kategori fylls automatiskt “Konto” “Skatt” “Etikett” och “Summa” I. Dubbelkolla så att rätt moms har valts. Om “Ii” är inkorrekt kan man klicka på den lilla pilen för att ändra till en annan momssats. När allting ser korrekt ut klickar man på “Stäm av” uppe till höger för att skapa verifikatet och stämma av det mot den befintliga transaktionen.
+När man har klickat på en kategori fylls automatiskt “Konto” “Skatt” “Etikett” och “Summa” i. Dubbelkolla så att rätt moms har valts. Om “Ii” är inkorrekt kan man klicka på den lilla pilen för att ändra till en annan momssats. När allting ser korrekt ut klickar man på “Stäm av” uppe till höger för att skapa verifikatet och stämma av det mot den befintliga transaktionen.
 
 .. image:: images/avstämning8.png
     :scale: 80 %
