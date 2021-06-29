@@ -4,7 +4,7 @@
 Registrera betalningar
 ========================================
 
-För att registrera en betalning kan man göra enligt följande:
+För att manuellt registrera en betalning kan man göra enligt följande:
 
 Välj den faktura som ska avbetalas.
 
