@@ -33,10 +33,10 @@ Klicka på fliken Email settings och markera rutan.
 
 
 .. image:: img/users_guide_03.png
-   :align: center
+   :align: left
 
 .. image:: img/users_guide_04.png
-   :align: center
+   :align: left
 
 Viktigt!
 ------------------------
@@ -44,7 +44,7 @@ Fyll i den tänkta e-postadressen som ska vara på din domän.
 
 
 .. image:: img/users_guide_05.png
-   :align: center
+   :align: left
 
 Real Mail Address
 ------------------------
@@ -52,4 +52,4 @@ Det är viktigt att e-postadressen är utskrived enligt bilden nedan.
 
 
 .. image:: img/users_guide_06.png
-   :align: center
+   :align: left
