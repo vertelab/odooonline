@@ -1,1 +1,8 @@
-hello
+.. _usersindex:
+
+.. index::
+   single: User management
+
+======================
+Administrera användare
+======================
