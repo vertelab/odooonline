@@ -30,6 +30,7 @@ Denna bok är avsedd för entreprenörer som vill implementera ett fullt integre
    human-resource/index.rst
    ecommerce-and-website/index.rst
    survey-management/index.rst
+   settings_users/index.rst
 
 * :ref:`toc`
 * :ref:`genindex`
