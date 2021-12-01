@@ -18,6 +18,9 @@ Som administratör kan du hjälpa dina kollegor att komma igång både med att l
 
 .. image:: img/users_guide_01.png
    :align: left
+ | 
+.. image:: img/red_border.png
+   :align: left
 
 | 
 | 
@@ -30,6 +33,9 @@ Inställningar > Skapa
 .. image:: img/users_guide_02.png
    :align: left
 
+| 
+.. image:: img/red_border.png
+   :align: left
 
 | 
 | 
@@ -45,6 +51,9 @@ Klicka på fliken Email settings och markera rutan.
 .. image:: img/users_guide_04.png
    :align: left
 
+| 
+.. image:: img/red_border.png
+   :align: left
 
 | 
 | 
