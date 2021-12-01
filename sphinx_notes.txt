@@ -1,0 +1,10 @@
+notex.txt
+
+
+
+
+A new line
+https://stackoverflow.com/questions/54001054/force-a-new-line-in-sphinx-text
+
+rst Cheatsheet
+https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html
