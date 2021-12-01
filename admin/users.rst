@@ -19,8 +19,8 @@ Som administratör kan du hjälpa dina kollegor att komma igång både med att l
 .. image:: img/users_guide_01.png
    :align: left
 
-
-Skapa användare
+| 
+| Skapa användare
 ------------------------
 Inställningar > Skapa
 
@@ -28,7 +28,9 @@ Inställningar > Skapa
 .. image:: img/users_guide_02.png
    :align: left
 
-Postfix Active
+
+| 
+| Postfix Active
 ------------------------
 Klicka på fliken Email settings och markera rutan.
 
@@ -39,7 +41,9 @@ Klicka på fliken Email settings och markera rutan.
 .. image:: img/users_guide_04.png
    :align: left
 
-Viktigt!
+
+| 
+| Viktigt!
 ------------------------
 Fyll i den tänkta e-postadressen som ska vara på din domän.
 
@@ -47,7 +51,9 @@ Fyll i den tänkta e-postadressen som ska vara på din domän.
 .. image:: img/users_guide_05.png
    :align: left
 
-"Real Mail Address"
+
+| 
+| "Real Mail Address"
 ------------------------
 Det är viktigt att e-postadressen är utskrived enligt bilden nedan.
 
@@ -56,7 +62,9 @@ Det är viktigt att e-postadressen är utskrived enligt bilden nedan.
    :align: left
 
 
-Kontakter
+
+| 
+| Kontakter
 ------------------------
 Skapa en ny Kontakt
 
@@ -64,7 +72,9 @@ Skapa en ny Kontakt
    :align: left
 
 
-Förutom namnet...
+
+| 
+| Förutom namnet...
 ------------------------
 ska du marker "Individuell", koppla användaren till namnet på ditt företag, (Kodspecialisterna i detta exempel) samt fylla i e-postadressen.
 
