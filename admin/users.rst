@@ -18,8 +18,9 @@ Som administratör kan du hjälpa dina kollegor att komma igång både med att l
 
 .. image:: img/users_guide_01.png
    :align: left
- | 
-.. image:: img/red_border.png
+
+
+.. image:: img/blue_border_700.png
    :align: left
 
 | 
@@ -33,8 +34,8 @@ Inställningar > Skapa
 .. image:: img/users_guide_02.png
    :align: left
 
-| 
-.. image:: img/red_border.png
+
+.. image:: img/blue_border_700.png
    :align: left
 
 | 
@@ -51,9 +52,10 @@ Klicka på fliken Email settings och markera rutan.
 .. image:: img/users_guide_04.png
    :align: left
 
-| 
-.. image:: img/red_border.png
+
+.. image:: img/blue_border_700.png
    :align: left
+
 
 | 
 | 
@@ -90,6 +92,9 @@ Skapa en ny Kontakt
 .. image:: img/users_guide_07.png
    :align: left
 
+
+.. image:: img/blue_border_700.png
+   :align: left
 
 
 | 
